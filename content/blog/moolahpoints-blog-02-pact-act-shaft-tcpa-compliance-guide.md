@@ -16,13 +16,13 @@ Here's what actually governs loyalty marketing for age-restricted products, in p
 
 ### 1. Age verification (FDA rules + the PACT Act)
 
-At the point of sale, FDA rules require checking ID for anyone appearing under 30 — this part most retailers already know cold. Where it gets more complicated is remote or delivery sales: the **PACT Act** (Prevent All Cigarette Trafficking Act) governs shipping tobacco and vapor products, and requires full identity verification plus an adult signature on delivery. If your loyalty program ever supports online ordering, pickup, or delivery for tobacco or vapor products, PACT Act obligations follow the sale, not just the in-store register.
+At the point of sale, [FDA rules](https://www.fda.gov/tobacco-products/compliance-enforcement-training/retail-sales-tobacco-products) require checking ID for anyone appearing under 30 — this part most retailers already know cold. Where it gets more complicated is remote or delivery sales: the [PACT Act](https://www.atf.gov/alcohol-tobacco/prevent-all-cigarette-trafficking-pact-act) (Prevent All Cigarette Trafficking Act, enforced by the ATF) governs shipping tobacco and vapor products, and requires full identity verification plus an adult signature on delivery. If your loyalty program ever supports online ordering, pickup, or delivery for tobacco or vapor products, PACT Act obligations follow the sale, not just the in-store register.
 
 **What this means for your loyalty program:** enrollment and reward redemption tied to age-restricted products should never bypass age verification, even when the "purchase" is happening through a points-redemption flow rather than a standard checkout.
 
 ### 2. SHAFT content restrictions on bulk SMS
 
-This is the one most retailers have never heard of, and it's the one most likely to get a campaign silently blocked. Wireless carriers enforce **CTIA content guidelines** on bulk SMS traffic, commonly shortened to **SHAFT** — no **S**ex, **H**ate, **A**lcohol, **F**irearms, or **T**obacco content in standard bulk messaging without special carrier-level approval.
+This is the one most retailers have never heard of, and it's the one most likely to get a campaign silently blocked. Wireless carriers enforce [CTIA's Messaging Principles and Best Practices](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf) on bulk SMS traffic, which include content restrictions commonly shortened to **SHAFT** — no **S**ex, **H**ate, **A**lcohol, **F**irearms, or **T**obacco content in standard bulk messaging without special carrier-level approval.
 
 That means a text like *"20% off all vodka this weekend — reply STOP to opt out"* can trip carrier filters and get suppressed before it ever reaches your customer, regardless of how good your loyalty platform is. This isn't a law with a courtroom penalty attached — it's an infrastructure-level restriction baked into how carriers route bulk SMS, which makes it easy to miss until a campaign mysteriously underperforms.
 
@@ -30,7 +30,7 @@ That means a text like *"20% off all vodka this weekend — reply STOP to opt ou
 
 ### 3. TCPA consent
 
-The **Telephone Consumer Protection Act (TCPA)** applies to all SMS marketing, not just regulated products — but the stakes are higher when the product category is already scrutinized. TCPA requires clear, documented opt-in consent before you text a customer, and a working opt-out mechanism on every message. For liquor, vape, and tobacco retailers specifically, sloppy consent practices compound with SHAFT filtering risk: you don't just want consent, you want a clean, defensible enrollment record.
+The [Telephone Consumer Protection Act (TCPA)](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), enforced by the FCC, applies to all SMS marketing, not just regulated products — but the stakes are higher when the product category is already scrutinized. TCPA requires clear, documented opt-in consent before you text a customer, and a working opt-out mechanism on every message. For liquor, vape, and tobacco retailers specifically, sloppy consent practices compound with SHAFT filtering risk: you don't just want consent, you want a clean, defensible enrollment record.
 
 ## What a compliant loyalty campaign actually looks like
 
@@ -74,4 +74,13 @@ Compliance shouldn't be the reason a liquor store, vape shop, or smoke shop skip
 
 ---
 
-*Sources: FDA retail tobacco sales guidance; PACT Act (federal statute governing remote tobacco/vapor sales); CTIA SHAFT content guidelines for bulk SMS; Telephone Consumer Protection Act (TCPA); Preferred Patron regulated-retail loyalty product documentation.*
+## Sources
+
+- [FDA — Retail Sales of Tobacco Products (age verification requirements)](https://www.fda.gov/tobacco-products/compliance-enforcement-training/retail-sales-tobacco-products)
+- [ATF — Prevent All Cigarette Trafficking (PACT) Act](https://www.atf.gov/alcohol-tobacco/prevent-all-cigarette-trafficking-pact-act)
+- [ATF — PACT Act Information Guide (PDF)](https://www.atf.gov/alcohol-tobacco/docs/guide/prevent-all-cigarette-trafficking-pact-act-information-guide/download)
+- [CTIA — Messaging Principles and Best Practices (PDF, source of SHAFT content restrictions)](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf)
+- [FCC — Telephone Consumer Protection Act (TCPA) rules and orders](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa)
+- Preferred Patron regulated-retail loyalty product documentation (industry benchmark reference, publicly available product positioning)
+
+*This article is general information, not legal advice — the sources above are the primary, authoritative references; confirm current requirements with your own counsel before launching a campaign, since regulations and carrier enforcement practices change.*

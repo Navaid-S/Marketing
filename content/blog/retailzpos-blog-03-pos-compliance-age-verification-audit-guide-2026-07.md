@@ -23,11 +23,11 @@ If you don't know which setting your current POS uses, that's worth finding out 
 
 ## The fake ID problem makes "just look at it" insufficient
 
-Visual inspection alone is no longer a reliable check. An estimated 90% of fake IDs in circulation now carry barcodes sophisticated enough to pass a basic point-of-sale scan — meaning a cashier who scans an ID and sees a green checkmark can still be looking at a fake. A hard-block system that only checks "did a scan happen" isn't enough on its own; it needs to actually validate the ID's data (birth date, expiration, format) against what a real ID from that state should look like, and flag mismatches — expired dates, out-of-state formats that don't match known templates, or the same ID being scanned repeatedly in a short window.
+Visual inspection alone is no longer a reliable check. An estimated [90% of fake IDs in circulation now carry barcodes sophisticated enough to pass a basic point-of-sale scan](https://chainstoreage.com/age-verification-new-technology-affords-retailers-new-protections) — meaning a cashier who scans an ID and sees a green checkmark can still be looking at a fake. A hard-block system that only checks "did a scan happen" isn't enough on its own; it needs to actually validate the ID's data (birth date, expiration, format) against what a real ID from that state should look like, and flag mismatches — expired dates, out-of-state formats that don't match known templates, or the same ID being scanned repeatedly in a short window.
 
 ## What auditors actually ask to see
 
-Based on standard state ABC board and federal audit practice, the reports that come up repeatedly:
+Based on standard state ABC board and federal audit practice — see, for example, [North Carolina ABC Commission's audit and records guidance](https://www.abc.nc.gov/permits-audit/audit/audit-records) as one representative state framework — the reports that come up repeatedly:
 
 - **Age verification logs** — proof that ID checks happened, not just that a sale occurred
 - **Refusal logs** — records of sales you declined, which paradoxically is evidence of a working compliance program, not a liability
@@ -38,11 +38,11 @@ Based on standard state ABC board and federal audit practice, the reports that c
 
 ## How long you need to keep records
 
-The federal Alcohol and Tobacco Tax and Trade Bureau (TTB) requires alcohol beverage dealers to retain records, supporting documents, and report copies for **at least three years**, open for inspection on request. State requirements can be longer — check your specific state ABC board's rules rather than assuming the federal minimum is sufficient everywhere.
+The federal [Alcohol and Tobacco Tax and Trade Bureau (TTB) recordkeeping requirements](https://www.ttb.gov/business-central/maintaining-compliance-as-an-alcohol-dealer-or-user) require alcohol beverage dealers to retain records, supporting documents, and report copies for **at least three years**, open for inspection on request — retail dealers specifically must keep complete records of quantities received and from whom, per [TTB's liquor laws and regulations for retail dealers](https://www.ttb.gov/laws-regulations-and-public-guidance/liquor-laws-regulations-retail-dealers) (also codified at [27 CFR Part 31](https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-31)). State requirements can be longer — check your specific state ABC board's rules rather than assuming the federal minimum is sufficient everywhere.
 
 ## If you sell online, pickup, or delivery: the PACT Act applies too
 
-The moment any age-restricted sale — tobacco or vapor product specifically — happens outside the in-person register (online order, delivery, pickup), the federal PACT Act adds its own requirements: full identity verification and an adult signature at the point of delivery. A POS built only for in-store hard-blocking doesn't automatically cover this; confirm your online/delivery flow has its own age-verification and signature-capture step if you offer either.
+The moment any age-restricted sale — tobacco or vapor product specifically — happens outside the in-person register (online order, delivery, pickup), the federal [PACT Act](https://www.atf.gov/alcohol-tobacco/prevent-all-cigarette-trafficking-pact-act) (Prevent All Cigarette Trafficking Act, enforced by the ATF) adds its own requirements: full identity verification and an adult signature at the point of delivery. A POS built only for in-store hard-blocking doesn't automatically cover this; confirm your online/delivery flow has its own age-verification and signature-capture step if you offer either.
 
 ## State variation is real — don't assume one setup covers every location
 
@@ -78,4 +78,15 @@ Yes, potentially. The PACT Act requires identity verification and an adult signa
 
 ---
 
-*Sources: Alcohol and Tobacco Tax and Trade Bureau (TTB) recordkeeping requirements; NC ABCC audit and records guidance; PACT Act (federal statute governing remote tobacco/vapor sales); industry compliance-workflow guidance via NRS and PaymentNerds vape-shop POS compliance research.*
+## Sources
+
+- [Chain Store Age — Age Verification: New Technology Affords Retailers New Protections (fake ID barcode statistic)](https://chainstoreage.com/age-verification-new-technology-affords-retailers-new-protections)
+- [TTB — Maintaining Compliance as an Alcohol Beverage Dealer (recordkeeping requirements)](https://www.ttb.gov/business-central/maintaining-compliance-as-an-alcohol-dealer-or-user)
+- [TTB — Liquor Laws and Regulations for Retail Dealers](https://www.ttb.gov/laws-regulations-and-public-guidance/liquor-laws-regulations-retail-dealers)
+- [eCFR — 27 CFR Part 31, Alcohol Beverage Dealers](https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-31)
+- [ATF — Prevent All Cigarette Trafficking (PACT) Act](https://www.atf.gov/alcohol-tobacco/prevent-all-cigarette-trafficking-pact-act)
+- [North Carolina ABC Commission — Audit & Investigation Section](https://www.abc.nc.gov/permits-audit/audit-investigation-section) and [Audit Records guidance](https://www.abc.nc.gov/permits-audit/audit/audit-records) (one representative state ABC board framework — your own state's requirements may differ)
+- [PaymentNerds — Vape Shop POS System Guide: Age Verification, Compliance, and Payments](https://paymentnerds.com/blog/pos-systems-for-vape-shops-managing-age-verification-and-compliance/) (industry compliance-workflow context, including the hard-block/soft-block distinction)
+- [NRS — Age Verification and ID Scanning at the Counter](https://nrsplus.com/blog/age-verification-and-id/) (industry context on building an audit-ready compliance workflow)
+
+*This article is general information, not legal advice — the sources above are the primary, authoritative references where available; confirm current obligations with your own counsel or your specific state ABC board, since requirements vary by state and change over time.*
