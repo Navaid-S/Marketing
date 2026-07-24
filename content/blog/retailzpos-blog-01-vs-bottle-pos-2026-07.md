@@ -43,7 +43,7 @@ If you're running a liquor store, you already know most general retail POS syste
 
 **Inventory depth.** Both systems handle the liquor-specific problem of selling by the case and by the bottle — this isn't a differentiator, it's table stakes for a liquor-specific POS. Where RetailzPOS adds more: AI-driven reorder alerts that flag a fast-moving SKU before it runs out, rather than requiring a manual count.
 
-**Loyalty: bundled vs. purpose-built.** This is the real fork in the road. Bottle POS's pitch, like most liquor-specific bundled systems in this category, is single-vendor simplicity — a loyalty feature that comes with the register instead of a separate purchase. (LMS-POS, a similar bundled competitor, [markets this explicitly as avoiding "expensive third-party marketing platforms"](https://lmspos.com/) — confirm Bottle POS's own current positioning directly, since that specific phrasing is LMS-POS's, not independently verified for Bottle POS.) That's a fair pitch if you want the absolute simplest single-vendor relationship and don't need much beyond basic points tracking. RetailzPOS takes a different bet: loyalty lives in a dedicated product (Moolah Points) built specifically around liquor-vertical mechanics — double points on a new varietal, referral perks, SMS campaigns written with alcohol-marketing content restrictions in mind — rather than a generic points counter. If loyalty marketing is a real growth lever for your store (not just a nice-to-have), the dedicated-product approach usually has more room to grow with you.
+**Loyalty: bundled vs. purpose-built.** This is the real fork in the road. Bottle POS's pitch, like most liquor-specific bundled systems in this category, is single-vendor simplicity — a loyalty feature that comes with the register instead of a separate purchase. (LMS-POS, a similar bundled competitor, [markets this explicitly as avoiding "expensive third-party marketing platforms"](https://lmspos.com/) — confirm Bottle POS's own current positioning directly, since that specific phrasing is LMS-POS's, not independently verified for Bottle POS.) That's a fair pitch if you want the absolute simplest single-vendor relationship and don't need much beyond basic points tracking. RetailzPOS takes a different bet: loyalty lives in a dedicated product (Moolah Points) built specifically around liquor-vertical mechanics — double points on a new varietal, referral perks, SMS campaigns written with [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), [carrier SHAFT content restrictions](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), and [DISCUS's responsible alcohol advertising guidelines](https://distilledspirits.org/code-of-responsible-practices/) in mind — rather than a generic points counter. If loyalty marketing is a real growth lever for your store (not just a nice-to-have), the dedicated-product approach usually has more room to grow with you.
 
 **Compliance depth.** Age-restricted retail carries real regulatory exposure — for register-level age verification and for how you're legally allowed to text or email customers about alcohol. This is worth asking both vendors about directly and specifically, not assuming either one has it fully solved.
 
@@ -82,7 +82,7 @@ Print this or copy it into your notes before your next vendor call — for eithe
 
 - [ ] Is age verification hard-blocked (transaction can't complete without a check) or soft-blocked (a skippable prompt)?
 - [ ] How does case-to-single-unit inventory conversion work when a case is broken mid-shift?
-- [ ] Does the platform account for alcohol-marketing content restrictions (SHAFT, TCPA) in SMS/email campaigns, or is that on you to figure out?
+- [ ] Does the platform account for alcohol-marketing content restrictions ([SHAFT](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), [DISCUS](https://distilledspirits.org/code-of-responsible-practices/)) in SMS/email campaigns, or is that on you to figure out?
 - [ ] What does data portability look like if you switch POS systems again later — can you export customer and inventory history cleanly?
 - [ ] What reporting is available out of the box — sales by SKU, loyalty performance, compliance logs?
 - [ ] What does the actual implementation timeline look like, including inventory and customer data migration?
@@ -108,7 +108,7 @@ Both are built for independent liquor retail and handle case-break inventory. Th
 Ask both vendors directly and specifically — this varies and matters more than almost any other feature in liquor retail, since a missed check carries real fine and license risk.
 
 **Can I run SMS marketing campaigns through either platform?**
-RetailzPOS's loyalty layer (Moolah Points) is built with alcohol-marketing content restrictions (SHAFT, TCPA) in mind. Confirm directly with Bottle POS what their SMS/email capabilities include.
+RetailzPOS's loyalty layer (Moolah Points) is built with alcohol-marketing content restrictions ([SHAFT](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), and [DISCUS's alcohol advertising code](https://distilledspirits.org/code-of-responsible-practices/)) in mind. Confirm directly with Bottle POS what their SMS/email capabilities include.
 
 **What's involved in switching from Bottle POS to RetailzPOS?**
 Inventory import, customer/loyalty data migration, staff training, and a planned go-live cutover. Ask for a specific migration plan — including how existing data transfers and what the training timeline looks like — before committing to a switch date.
@@ -122,6 +122,10 @@ Fair question — we're transparent that this comes from the RetailzPOS Product 
 
 - [LMS-POS — Liquor Store POS](https://lmspos.com/) (source of the "expensive third-party marketing platforms" positioning language referenced above, attributed to LMS-POS specifically, not Bottle POS)
 - [Bottle POS](https://bottlepos.com/) — confirm current feature and pricing specifics directly, as several rows in this comparison note
+- [FCC — Telephone Consumer Protection Act (TCPA) rules and orders](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa)
+- [CTIA — Messaging Principles and Best Practices (PDF, source of SHAFT content restrictions)](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf)
+- [DISCUS — Code of Responsible Practices for Beverage Alcohol Advertising and Marketing](https://distilledspirits.org/code-of-responsible-practices/) (industry self-regulatory guidance, including digital/SMS marketing provisions)
+- For the full plain-language breakdown of these requirements, see our [PACT Act, SHAFT, and TCPA compliance guide]
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 
