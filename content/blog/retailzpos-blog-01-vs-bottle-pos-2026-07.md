@@ -43,7 +43,7 @@ If you're running a liquor store, you already know most general retail POS syste
 
 **Inventory depth.** Both systems handle the liquor-specific problem of selling by the case and by the bottle — this isn't a differentiator, it's table stakes for a liquor-specific POS. Where RetailzPOS adds more: AI-driven reorder alerts that flag a fast-moving SKU before it runs out, rather than requiring a manual count.
 
-**Loyalty: bundled vs. purpose-built.** This is the real fork in the road. Bottle POS's pitch is that its bundled loyalty feature means you don't need "an expensive third-party marketing platform" — a fair pitch if you want the absolute simplest single-vendor relationship and don't need much beyond basic points tracking. RetailzPOS takes a different bet: loyalty lives in a dedicated product (Moolah Points) built specifically around liquor-vertical mechanics — double points on a new varietal, referral perks, SMS campaigns written with alcohol-marketing content restrictions in mind — rather than a generic points counter. If loyalty marketing is a real growth lever for your store (not just a nice-to-have), the dedicated-product approach usually has more room to grow with you.
+**Loyalty: bundled vs. purpose-built.** This is the real fork in the road. Bottle POS's pitch, like most liquor-specific bundled systems in this category, is single-vendor simplicity — a loyalty feature that comes with the register instead of a separate purchase. (LMS-POS, a similar bundled competitor, [markets this explicitly as avoiding "expensive third-party marketing platforms"](https://lmspos.com/) — confirm Bottle POS's own current positioning directly, since that specific phrasing is LMS-POS's, not independently verified for Bottle POS.) That's a fair pitch if you want the absolute simplest single-vendor relationship and don't need much beyond basic points tracking. RetailzPOS takes a different bet: loyalty lives in a dedicated product (Moolah Points) built specifically around liquor-vertical mechanics — double points on a new varietal, referral perks, SMS campaigns written with alcohol-marketing content restrictions in mind — rather than a generic points counter. If loyalty marketing is a real growth lever for your store (not just a nice-to-have), the dedicated-product approach usually has more room to grow with you.
 
 **Compliance depth.** Age-restricted retail carries real regulatory exposure — for register-level age verification and for how you're legally allowed to text or email customers about alcohol. This is worth asking both vendors about directly and specifically, not assuming either one has it fully solved.
 
@@ -117,6 +117,11 @@ Inventory import, customer/loyalty data migration, staff training, and a planned
 Fair question — we're transparent that this comes from the RetailzPOS Product Team, and it's written to help you ask sharper questions of both vendors, not to hide Bottle POS's legitimate strengths. Verify anything that matters to your decision directly with both companies.
 
 ---
+
+## Sources
+
+- [LMS-POS — Liquor Store POS](https://lmspos.com/) (source of the "expensive third-party marketing platforms" positioning language referenced above, attributed to LMS-POS specifically, not Bottle POS)
+- [Bottle POS](https://bottlepos.com/) — confirm current feature and pricing specifics directly, as several rows in this comparison note
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 

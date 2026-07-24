@@ -7,7 +7,7 @@
 
 ---
 
-**Quick answer:** LMS-POS is a liquor-specific point-of-sale system that bundles loyalty features directly into the register, marketed explicitly as removing the need for a separate third-party marketing platform. That's a fair pitch for a store that wants the simplest possible setup — but if you want loyalty mechanics built specifically around liquor retail (not just a bundled points counter), or inventory tooling with AI-driven reorder alerts, it's worth comparing against the alternatives below before committing.
+**Quick answer:** LMS-POS is a liquor-specific point-of-sale system that bundles loyalty features directly into the register, [marketed explicitly as removing the need for "expensive third-party marketing platforms"](https://lmspos.com/). That's a fair pitch for a store that wants the simplest possible setup — but if you want loyalty mechanics built specifically around liquor retail (not just a bundled points counter), or inventory tooling with AI-driven reorder alerts, it's worth comparing against the alternatives below before committing.
 
 ## LMS-POS vs. RetailzPOS at a glance
 
@@ -100,6 +100,11 @@ It shouldn't — but confirm data export/portability with any vendor before swit
 Fair question — we're transparent about that. Each alternative above, including RetailzPOS, is described with its real tradeoffs rather than a one-sided pitch. Verify anything that matters to your decision directly with each vendor.
 
 ---
+
+## Sources
+
+- [LMS-POS](https://lmspos.com/) (source of the "expensive third-party marketing platforms" positioning language)
+- [Bottle POS](https://bottlepos.com/), [Lightspeed Retail](https://www.lightspeedhq.com/), [Square for Retail](https://squareup.com/us/en/point-of-sale/retail), [NRS](https://nrsplus.com/) — confirm current features and pricing directly with each vendor
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 

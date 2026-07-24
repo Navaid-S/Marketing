@@ -7,7 +7,7 @@
 
 ---
 
-**Quick answer:** Clover is a widely-used, general-purpose POS with a free basic loyalty tier (Clover Rewards) — a reasonable choice for a simple retail counter, but not built specifically for liquor, vape, or convenience retail. RetailzPOS is purpose-built for those categories, with age verification enforced at checkout and inventory/loyalty tooling designed around case-break, SKU-variant, and compliance needs Clover doesn't address out of the box.
+**Quick answer:** Clover is a widely-used, general-purpose POS with a free entry-level loyalty tier (Clover Rewards) — a reasonable choice for a simple retail counter, but not built specifically for liquor, vape, or convenience retail, and the free tier's messaging tools are minimal ([real SMS/email outreach requires a higher-tier plan](https://www.loyaltypass.co/blog/industries/clover-loyalty-program), reportedly around $99/month). RetailzPOS is purpose-built for these categories, with age verification enforced at checkout and inventory/loyalty tooling designed around case-break, SKU-variant, and compliance needs Clover doesn't address out of the box.
 
 ## RetailzPOS vs. Clover at a glance
 
@@ -17,7 +17,7 @@
 
 ## The core tradeoff
 
-Clover's biggest advantage is familiarity and reach — it's a well-known platform with broad hardware/app-marketplace support, and Clover Rewards is free at the basic tier, which makes it an easy "good enough" default for a lot of small retailers. The tradeoff: Clover wasn't designed around age-restricted retail specifically. Its rewards mechanics are generic points/punch-card, and age verification isn't purpose-built the way it is in a system designed for liquor, vape, and convenience retail from the ground up.
+Clover's biggest advantage is familiarity and reach — it's a well-known platform with broad hardware/app-marketplace support, and Clover Rewards has a free entry tier, which makes it an easy "good enough" default for a lot of small retailers. The tradeoff: Clover wasn't designed around age-restricted retail specifically. Its rewards mechanics are generic points/punch-card, real marketing outreach is gated behind a paid plan, and age verification isn't purpose-built the way it is in a system designed for liquor, vape, and convenience retail from the ground up.
 
 ## Expanded comparison
 
@@ -27,7 +27,7 @@ Clover's biggest advantage is familiarity and reach — it's a well-known platfo
 | Inventory | Case-to-bottle conversion, SKU-variant tracking, AI reorder alerts | General retail inventory tools |
 | Multi-store support | Built for growth across multiple locations | Available via Clover's broader ecosystem — confirm setup specifics |
 | Age verification | Hard-block enforcement at checkout, audit logs generated automatically | Not purpose-built for age-restricted retail; configuration varies by setup |
-| Loyalty | Moolah Points — vertical-specific reward mechanics, SMS/email with compliance-aware content | Clover Rewards — free basic tier, generic points/punch-card mechanics |
+| Loyalty | Moolah Points — vertical-specific reward mechanics, SMS/email with compliance-aware content included | Clover Rewards — free entry tier with minimal messaging tools; real SMS/email outreach requires a higher-tier plan (~$99/mo reported) |
 | Customer segmentation | Reward triggers can target specific behavior | Confirm directly with vendor |
 | Integrations | E-commerce/omnichannel, Moolah Points | ✅✅ Broad third-party app marketplace |
 | Support | Dedicated onboarding support | Confirm current support hours/SLA directly with vendor |
@@ -41,7 +41,7 @@ If you're running a small, general convenience counter with no age-restricted pr
 
 **Age verification.** Clover doesn't ship with liquor/tobacco/vape-specific age-gating built in the way a purpose-built system does. If you're relying on staff training alone rather than a hard-blocked register setting, that's a real compliance exposure — see our [POS compliance guide] for why hard-block vs. soft-block matters more than almost any other setting in this category.
 
-**Loyalty depth.** Clover Rewards being free is a real value at the basic tier, but it's a generic points/punch-card mechanic — there's no equivalent to reward triggers built around your specific category (a wine-tasting bonus, a vape-and-e-liquid bundle, a coffee-and-breakfast pairing). If loyalty is meant to actually change customer behavior, not just track visits, that gap matters.
+**Loyalty depth.** Clover Rewards' free entry tier is a real value, but it's a generic points/punch-card mechanic with minimal messaging capability — meaningful SMS/email outreach is reportedly gated behind a roughly $99/month plan, at which point the cost comparison against a purpose-built loyalty product looks different than "free" suggests. There's also no equivalent to reward triggers built around your specific category (a wine-tasting bonus, a vape-and-e-liquid bundle, a coffee-and-breakfast pairing). If loyalty is meant to actually change customer behavior, not just track visits, both gaps matter.
 
 **Inventory for case-break categories.** General retail inventory tools don't always handle the case-to-single-unit conversion liquor retailers need cleanly — worth testing directly with your actual SKU list before committing.
 
@@ -84,7 +84,7 @@ Clover is a solid general-purpose choice for simple retail. For liquor, vape, an
 ## FAQ
 
 **Is Clover Rewards good enough for a liquor store?**
-It covers basic points tracking for free, but doesn't include liquor-specific reward mechanics or built-in age-verification enforcement — worth weighing against a purpose-built alternative if those matter to your store.
+The free entry tier covers basic points tracking, but doesn't include liquor-specific reward mechanics or built-in age-verification enforcement, and meaningful SMS/email marketing is reportedly gated behind a paid plan (~$99/month) — worth weighing the real all-in cost against a purpose-built alternative if those matter to your store.
 
 **Can Clover handle age-restricted product sales?**
 Clover can be configured for various retail scenarios, but it isn't purpose-built for age-restricted retail the way a liquor/vape/convenience-specific POS is. Confirm current age-verification capabilities directly with Clover before relying on it as your primary compliance control.
@@ -99,6 +99,11 @@ Inventory export, checking for app-marketplace dependencies you'd need to replac
 Fair question — we're transparent about that, and we've tried to give Clover credit for what it genuinely does well (reach, familiarity, a free loyalty tier) rather than dismissing it. Verify anything that matters to your decision directly with Clover.
 
 ---
+
+## Sources
+
+- [LoyaltyPass — Clover Loyalty Program: Setup, Pricing & Features](https://www.loyaltypass.co/blog/industries/clover-loyalty-program) (Clover Rewards free-tier limitations and paid-plan pricing)
+- [Clover](https://www.clover.com/) — confirm current pricing and feature tiers directly, as noted throughout this comparison
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 

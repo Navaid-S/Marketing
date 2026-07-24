@@ -7,7 +7,7 @@
 
 ---
 
-**Quick answer:** Square for Retail is a low-friction, well-designed POS that's genuinely good for a small store with straightforward needs — easy setup, transparent pricing, and Square Loyalty available as a card-linked add-on (roughly $45-49/month per location). Where it shows real limits for liquor, vape, and convenience retailers specifically: case-break inventory, category-specific loyalty mechanics, and purpose-built age-verification enforcement aren't part of what Square was designed around.
+**Quick answer:** Square for Retail is a low-friction, well-designed POS that's genuinely good for a small store with straightforward needs — easy setup, transparent pricing, and [Square Loyalty available as a card-linked add-on (roughly $45-49/month per location)](https://squareup.com/us/en/point-of-sale/retail). Where it shows real limits for liquor, vape, and convenience retailers specifically: case-break inventory, category-specific loyalty mechanics, and purpose-built age-verification enforcement aren't part of what Square was designed around.
 
 ## Square for Retail vs. RetailzPOS at a glance
 
@@ -19,7 +19,7 @@
 
 Square earns its popularity honestly. Setup is fast, pricing is transparent and published (unusual in this category — most competitors make you request a quote), and the interface is genuinely easy for staff to learn. If you're running general merchandise with a moderate SKU count and don't have complex age-restricted-product needs, Square is a legitimately solid, low-risk choice.
 
-**Square Loyalty**, the add-on program, is card-linked (no separate app or physical card needed) and priced around $45-49/month per location — straightforward and reasonably affordable. It performs best in food & beverage and general retail use cases, per Square's own reported category breakdown.
+**Square Loyalty**, the add-on program, is card-linked (no separate app or physical card needed) and priced around $45-49/month per location — straightforward and reasonably affordable. [It performs best in food & beverage (45% of use) and general retail (35%) use cases](https://loop.fans/blog/square-loyalty-program-review), per third-party analysis of Square's own reported category breakdown.
 
 ## Where it runs into limits for specialty retail
 
@@ -101,6 +101,11 @@ Inventory export and remapping, loyalty data migration, checking for app-marketp
 Fair question — we're transparent about that, and we've tried to give Square credit for what it does well (ease of use, transparent pricing) rather than dismissing it outright. Verify anything that matters to your decision directly with Square.
 
 ---
+
+## Sources
+
+- [Square — Point of Sale for Retail](https://squareup.com/us/en/point-of-sale/retail) (Square Loyalty pricing)
+- [loop.fans — Square Loyalty Program Review](https://loop.fans/blog/square-loyalty-program-review) (category usage breakdown)
 
 *This review is based on publicly available product positioning as of July 2026, and is not affiliated with or endorsed by Square. Feature sets and pricing change — confirm current details directly with Square before deciding.*
 

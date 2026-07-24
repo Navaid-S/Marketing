@@ -17,7 +17,7 @@
 
 ## What "free" actually gets you
 
-Loyverse's core POS is free, and the built-in loyalty program — a barcode/card-based system — comes at no additional cost. Paid add-ons exist for extra functionality, but the baseline product genuinely doesn't require a subscription to start ringing up sales and tracking basic loyalty. For a new or very small store watching every dollar, that's a real, legitimate value — not a bait-and-switch.
+[Loyverse's core POS is free, and the built-in loyalty program](https://loyverse.com/pricing) — a barcode/card-based system — comes at no additional cost. Paid add-ons exist for extra functionality (reported around $5/month per store or employee for add-ons like employee management, $25/month for advanced inventory), but the baseline product genuinely doesn't require a subscription to start ringing up sales and tracking basic loyalty. For a new or very small store watching every dollar, that's a real, legitimate value — not a bait-and-switch.
 
 ## Where the free tier is genuinely enough
 
@@ -105,6 +105,10 @@ Because Loyverse uses barcode/card enrollment and Moolah Points uses phone-numbe
 Fair question — we're transparent about that, and we've tried to be honest about when Loyverse's free tier is genuinely the right call, not just when it isn't. Verify anything that matters to your decision directly with Loyverse.
 
 ---
+
+## Sources
+
+- [Loyverse — Pricing](https://loyverse.com/pricing) (free-tier and add-on pricing)
 
 *This review is based on publicly available product positioning as of July 2026, and is not affiliated with or endorsed by Loyverse. Feature sets and pricing change — confirm current details directly with Loyverse before deciding.*
 

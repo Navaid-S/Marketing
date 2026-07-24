@@ -7,7 +7,7 @@
 
 ---
 
-**Quick answer:** NRS (National Retail Solutions) is a POS and payments platform, backed by IDT Corporation (NYSE: IDT), built for convenience stores, bodegas, liquor stores, tobacco shops, and gas stations. Its biggest strengths are scale and bundling — POS, payment processing, a loyalty "club" program, and a multi-retailer discount network (Boss Local Shopping App / BR Club, reportedly serving 3.4 million+ customers) all come from one vendor relationship. Its biggest limitation for a specialty retailer: the loyalty features read as a generic, bundled add-on rather than something built specifically around your category's mechanics.
+**Quick answer:** NRS (National Retail Solutions) is a POS and payments platform, [backed by IDT Corporation (NYSE: IDT)](https://www.idt.net/national-retail-solutions-nrs-introduces-the-br-club-shopping-app-enabling-nrs-retailers-to-accept-mobile-orders/), built for convenience stores, bodegas, liquor stores, tobacco shops, and gas stations. Its biggest strengths are scale and bundling — POS, payment processing, a loyalty "club" program, and a multi-retailer discount network ([Boss Local Shopping App / BR Club, reportedly serving 3.4 million+ customers](https://nrsplus.com/loyalty-software/br-club-app/)) all come from one vendor relationship. Its biggest limitation for a specialty retailer: the loyalty features read as a generic, bundled add-on rather than something built specifically around your category's mechanics.
 
 ## NRS vs. RetailzPOS at a glance
 
@@ -120,6 +120,13 @@ Inventory/SKU data export, customer and loyalty data migration, a separate payme
 Fair question — we're transparent that this comes from the RetailzPOS Product Team. It's written to give NRS credit for its real strengths (scale, network reach, backing) while being honest about where a purpose-built alternative differs. Verify anything that matters to your decision directly with NRS.
 
 ---
+
+## Sources
+
+- [IDT Corp — National Retail Solutions (NRS) Introduces the BR Club Shopping App](https://www.idt.net/national-retail-solutions-nrs-introduces-the-br-club-shopping-app-enabling-nrs-retailers-to-accept-mobile-orders/) (IDT Corporation ownership, store categories served)
+- [NRS — Boss Local / BR Club App](https://nrsplus.com/loyalty-software/br-club-app/) (network size, loyalty mechanics)
+- [PR Newswire — NRS Levels the Playing Field for Independent Retailers with Affordable Ecommerce and Free Delivery Services](https://www.prnewswire.com/news-releases/national-retail-solutions-nrs-levels-the-playing-field-for-independent-retailers-with-affordable-ecommerce-and-free-delivery-services-302165601.html)
+- [NRS](https://nrsplus.com/) — confirm current pricing, processing rates, and network size directly, as noted throughout this review
 
 *This review is based on publicly available product positioning as of July 2026, and is not affiliated with or endorsed by National Retail Solutions. Feature sets, pricing, and network size change — confirm current details directly with NRS before deciding.*
 
