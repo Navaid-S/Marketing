@@ -50,7 +50,7 @@ For a store owner who wants one vendor handling POS, payments, and basic custome
 | Inventory | General POS inventory tools | Case-to-bottle conversion, SKU-variant tracking, AI reorder alerts |
 | Multi-store support | Confirm directly with vendor | Built for growth across multiple locations |
 | Loyalty | Points-based "club" + cross-retailer network (Boss/BR Club) | Vertical-specific reward mechanics via Moolah Points |
-| SMS/email marketing | "Contact My Customers" built-in tooling | Native via Moolah Points, written with SHAFT/TCPA content rules in mind |
+| SMS/email marketing | "Contact My Customers" built-in tooling | Native via Moolah Points, written with [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), [SHAFT](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), and [DISCUS](https://distilledspirits.org/code-of-responsible-practices/) content rules in mind |
 | Customer segmentation | Confirm directly with vendor | Reward triggers can target specific behavior |
 | Compliance / age verification | Confirm current capabilities directly with vendor | Hard-block enforcement at checkout with automatic audit logging |
 | Payments | NRS Pay, integrated | Dual pricing (cash/card), flexible processing |
@@ -126,6 +126,9 @@ Fair question — we're transparent that this comes from the RetailzPOS Product 
 - [IDT Corp — National Retail Solutions (NRS) Introduces the BR Club Shopping App](https://www.idt.net/national-retail-solutions-nrs-introduces-the-br-club-shopping-app-enabling-nrs-retailers-to-accept-mobile-orders/) (IDT Corporation ownership, store categories served)
 - [NRS — Boss Local / BR Club App](https://nrsplus.com/loyalty-software/br-club-app/) (network size, loyalty mechanics)
 - [PR Newswire — NRS Levels the Playing Field for Independent Retailers with Affordable Ecommerce and Free Delivery Services](https://www.prnewswire.com/news-releases/national-retail-solutions-nrs-levels-the-playing-field-for-independent-retailers-with-affordable-ecommerce-and-free-delivery-services-302165601.html)
+- [FCC — Telephone Consumer Protection Act (TCPA) rules and orders](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa)
+- [CTIA — Messaging Principles and Best Practices (PDF, source of SHAFT content restrictions)](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf)
+- [DISCUS — Code of Responsible Practices for Beverage Alcohol Advertising and Marketing](https://distilledspirits.org/code-of-responsible-practices/)
 - [NRS](https://nrsplus.com/) — confirm current pricing, processing rates, and network size directly, as noted throughout this review
 
 *This review is based on publicly available product positioning as of July 2026, and is not affiliated with or endorsed by National Retail Solutions. Feature sets, pricing, and network size change — confirm current details directly with NRS before deciding.*
