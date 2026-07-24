@@ -22,7 +22,7 @@ LMS-POS covers the basics a liquor store needs — case-break inventory, registe
 ## 5 alternatives worth comparing
 
 ### 1. RetailzPOS (+ Moolah Points)
-Built specifically for liquor, smoke shop, and convenience retail. The key difference from LMS-POS's bundled approach: loyalty lives in a dedicated product (Moolah Points) with liquor-specific reward mechanics — bonus points for trying a new wine, referral perks, SMS campaigns written with alcohol-marketing content restrictions in mind — rather than a generic points counter attached to the register. Inventory tooling includes AI-driven reorder alerts on top of standard case-to-bottle tracking. Age verification is enforced at checkout (hard-block, not a skippable prompt), with audit logs generated automatically.
+Built specifically for liquor, smoke shop, and convenience retail. The key difference from LMS-POS's bundled approach: loyalty lives in a dedicated product (Moolah Points) with liquor-specific reward mechanics — bonus points for trying a new wine, referral perks, SMS campaigns written with [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), [SHAFT](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), and [DISCUS](https://distilledspirits.org/code-of-responsible-practices/) content restrictions in mind — rather than a generic points counter attached to the register. Inventory tooling includes AI-driven reorder alerts on top of standard case-to-bottle tracking. Age verification is enforced at checkout (hard-block, not a skippable prompt), with audit logs generated automatically.
 
 ### 2. Bottle POS
 Another liquor-specific system with the same general positioning as LMS-POS — bundled loyalty, case-break inventory, single-vendor simplicity. See our full [RetailzPOS vs. Bottle POS comparison] for the detailed breakdown; the same tradeoffs largely apply when comparing it to LMS-POS.
@@ -31,10 +31,10 @@ Another liquor-specific system with the same general positioning as LMS-POS — 
 Strong general retail inventory depth and broad POS integration ecosystem, but not liquor-specific out of the box — you'll likely need to configure age-verification and case-break workflows yourself rather than getting them built in.
 
 ### 4. Square for Retail
-The lowest-friction option to get started, with Square Loyalty available as a card-linked add-on (~$45-49/month per location). Fine for a single small store with simple needs; lighter on liquor-specific compliance and inventory depth as you scale to multiple registers or locations. See our full [Square for Retail Review] for the detailed breakdown.
+The lowest-friction option to get started, with [Square Loyalty available as a card-linked add-on (~$45-49/month per location)](https://squareup.com/us/en/point-of-sale/retail). Fine for a single small store with simple needs; lighter on liquor-specific compliance and inventory depth as you scale to multiple registers or locations. See our full [Square for Retail Review] for the detailed breakdown.
 
 ### 5. NRS (National Retail Solutions)
-A larger, IDT-backed platform bundling POS, payments, and a cross-retailer loyalty network (Boss Local Shopping App / BR Club). Worth considering if network reach across other local stores matters to your customers more than liquor-specific reward depth. See our full [NRS POS Review] for the detailed breakdown.
+A larger, [IDT-backed](https://www.idt.net/national-retail-solutions-nrs-introduces-the-br-club-shopping-app-enabling-nrs-retailers-to-accept-mobile-orders/) platform bundling POS, payments, and a cross-retailer loyalty network ([Boss Local Shopping App / BR Club](https://nrsplus.com/loyalty-software/br-club-app/)). Worth considering if network reach across other local stores matters to your customers more than liquor-specific reward depth. See our full [NRS POS Review] for the detailed breakdown.
 
 ## Expanded comparison
 
@@ -45,7 +45,7 @@ A larger, IDT-backed platform bundling POS, payments, and a cross-retailer loyal
 | Bottle POS | ✅ | Confirm with vendor | ⚠️ Bundled/basic | Confirm directly with vendor | Single-tenant |
 | Lightspeed Retail | ⚠️ General retail, configurable | ✅ Broad ecosystem | ⚠️ Not vertical-specific | Confirm directly with vendor | Broad ecosystem |
 | Square for Retail | ⚠️ General retail | ⚠️ Limited | ⚠️ Card-linked, generic | Confirm directly with vendor | Broad, generic |
-| NRS | ✅ | Confirm with vendor | ⚠️ Bundled, not vertical-tuned | Confirm directly with vendor | ✅✅ Large network (3.4M+ customers) |
+| NRS | ✅ | Confirm with vendor | ⚠️ Bundled, not vertical-tuned | Confirm directly with vendor | ✅✅ [Large network (3.4M+ customers)](https://nrsplus.com/loyalty-software/br-club-app/) |
 
 *(Pricing across most of these is quote-based — get a specific number for your terminal count and location before deciding.)*
 
@@ -105,6 +105,11 @@ Fair question — we're transparent about that. Each alternative above, includin
 
 - [LMS-POS](https://lmspos.com/) (source of the "expensive third-party marketing platforms" positioning language)
 - [Bottle POS](https://bottlepos.com/), [Lightspeed Retail](https://www.lightspeedhq.com/), [Square for Retail](https://squareup.com/us/en/point-of-sale/retail), [NRS](https://nrsplus.com/) — confirm current features and pricing directly with each vendor
+- [IDT Corp — National Retail Solutions (NRS) Introduces the BR Club Shopping App](https://www.idt.net/national-retail-solutions-nrs-introduces-the-br-club-shopping-app-enabling-nrs-retailers-to-accept-mobile-orders/) (IDT ownership)
+- [NRS — Boss Local / BR Club App](https://nrsplus.com/loyalty-software/br-club-app/) (3.4M+ customer network figure)
+- [FCC — Telephone Consumer Protection Act (TCPA) rules and orders](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa)
+- [CTIA — Messaging Principles and Best Practices (PDF, source of SHAFT content restrictions)](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf)
+- [DISCUS — Code of Responsible Practices for Beverage Alcohol Advertising and Marketing](https://distilledspirits.org/code-of-responsible-practices/)
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 

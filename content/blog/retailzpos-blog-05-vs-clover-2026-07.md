@@ -27,7 +27,7 @@ Clover's biggest advantage is familiarity and reach — it's a well-known platfo
 | Inventory | Case-to-bottle conversion, SKU-variant tracking, AI reorder alerts | General retail inventory tools |
 | Multi-store support | Built for growth across multiple locations | Available via Clover's broader ecosystem — confirm setup specifics |
 | Age verification | Hard-block enforcement at checkout, audit logs generated automatically | Not purpose-built for age-restricted retail; configuration varies by setup |
-| Loyalty | Moolah Points — vertical-specific reward mechanics, SMS/email with compliance-aware content included | Clover Rewards — free entry tier with minimal messaging tools; real SMS/email outreach requires a higher-tier plan (~$99/mo reported) |
+| Loyalty | Moolah Points — vertical-specific reward mechanics, SMS/email content written with [TCPA](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa), [SHAFT](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf), and [DISCUS](https://distilledspirits.org/code-of-responsible-practices/) restrictions in mind | Clover Rewards — free entry tier with minimal messaging tools; real SMS/email outreach requires a higher-tier plan (~$99/mo reported) |
 | Customer segmentation | Reward triggers can target specific behavior | Confirm directly with vendor |
 | Integrations | E-commerce/omnichannel, Moolah Points | ✅✅ Broad third-party app marketplace |
 | Support | Dedicated onboarding support | Confirm current support hours/SLA directly with vendor |
@@ -104,6 +104,9 @@ Fair question — we're transparent about that, and we've tried to give Clover c
 
 - [LoyaltyPass — Clover Loyalty Program: Setup, Pricing & Features](https://www.loyaltypass.co/blog/industries/clover-loyalty-program) (Clover Rewards free-tier limitations and paid-plan pricing)
 - [Clover](https://www.clover.com/) — confirm current pricing and feature tiers directly, as noted throughout this comparison
+- [FCC — Telephone Consumer Protection Act (TCPA) rules and orders](https://www.fcc.gov/tags/telephone-consumer-protection-act-tcpa)
+- [CTIA — Messaging Principles and Best Practices (PDF, source of SHAFT content restrictions)](https://api.ctia.org/wp-content/uploads/2023/05/230523-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf)
+- [DISCUS — Code of Responsible Practices for Beverage Alcohol Advertising and Marketing](https://distilledspirits.org/code-of-responsible-practices/)
 
 *This comparison is based on publicly available product positioning as of July 2026. Feature sets and pricing change — confirm current details directly with each vendor before deciding.*
 
