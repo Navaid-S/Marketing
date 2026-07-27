@@ -716,7 +716,7 @@
     var btn = document.getElementById('themeToggle');
     var stored = null;
     try { stored = localStorage.getItem('ptech-theme'); } catch (e) {}
-    if (stored) root.setAttribute('data-theme', stored);
+    root.setAttribute('data-theme', stored || 'light');
 
     btn.addEventListener('click', function () {
       var current = root.getAttribute('data-theme');
