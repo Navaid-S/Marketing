@@ -333,6 +333,10 @@
   }
   .theme-toggle:hover { border-color: var(--forest); color: var(--ink); }
 
+  @media print {
+    .theme-toggle { display: none; }
+  }
+
 </style>
 
 <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle light and dark theme">◐ VIEW</button>
