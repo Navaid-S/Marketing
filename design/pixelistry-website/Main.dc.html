@@ -222,7 +222,7 @@
 
 <!-- ============ WHY LOCAL ============ -->
 <section style="padding: 56px 0; background: var(--purple); color: var(--white);">
-  <div class="wrap" style="display:grid; grid-template-columns:repeat(3,1fr); gap:32px;" class="grid-mobile-1">
+  <div class="wrap grid-mobile-1" style="display:grid; grid-template-columns:repeat(3,1fr); gap:32px;">
     <div style="display:flex; gap:14px; align-items:flex-start;">
       <svg width="26" height="26" viewBox="0 0 24 24" fill="none" style="flex-shrink:0; margin-top:2px;"><path d="M12 21C12 21 20 14.5 20 9.5C20 5.6 16.9 3 13.5 3C12 3 12 4 12 4C12 4 12 3 10.5 3C7.1 3 4 5.6 4 9.5C4 14.5 12 21 12 21Z" stroke="#4BBFBF" stroke-width="1.8" stroke-linejoin="round"/></svg>
       <div>
@@ -317,13 +317,13 @@
       <sc-for list="{{filtered}}" as="item" hint-placeholder-count="8">
         <div class="card" style="overflow:hidden;">
           <div style="{{item.tileStyle}}position:relative; aspect-ratio:4/3; display:flex; align-items:center; justify-content:center;">
-            <sc-if value="{{item.isPhoto}}" hint-placeholder-val="{{true}}">
+            <sc-if value="{{item.isPhoto}}" hint-placeholder-val="true">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="none"><path d="M4 8C4 6.9 4.9 6 6 6H8L9.5 4H14.5L16 6H18C19.1 6 20 6.9 20 8V17C20 18.1 19.1 19 18 19H6C4.9 19 4 18.1 4 17V8Z" stroke="white" stroke-width="1.7" stroke-linejoin="round"/><circle cx="12" cy="12.5" r="3.2" stroke="white" stroke-width="1.7"/></svg>
             </sc-if>
-            <sc-if value="{{item.isVideo}}" hint-placeholder-val="{{false}}">
+            <sc-if value="{{item.isVideo}}" hint-placeholder-val="false">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="9.2" stroke="white" stroke-width="1.7"/><path d="M10 8.5L16 12L10 15.5V8.5Z" fill="white"/></svg>
             </sc-if>
-            <sc-if value="{{item.isSocial}}" hint-placeholder-val="{{false}}">
+            <sc-if value="{{item.isSocial}}" hint-placeholder-val="false">
               <svg width="34" height="34" viewBox="0 0 24 24" fill="none"><rect x="3.5" y="3.5" width="7" height="7" rx="1.4" stroke="white" stroke-width="1.7"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.4" stroke="white" stroke-width="1.7"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.4" stroke="white" stroke-width="1.7"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.4" stroke="white" stroke-width="1.7"/></svg>
             </sc-if>
             <div style="position:absolute; top:10px; left:10px; background:rgba(13,13,13,0.55); color:white; font-size:10.5px; font-weight:800; letter-spacing:0.04em; text-transform:uppercase; padding:4px 9px; border-radius:20px;">Sample Concept</div>
@@ -410,7 +410,7 @@
 
 <!-- ============ CONTACT / LEAD FORM ============ -->
 <section id="contact" style="padding: 96px 0;">
-  <div class="wrap" style="display:flex; gap:64px;" class="stack-mobile">
+  <div class="wrap stack-mobile" style="display:flex; gap:64px;">
     <div style="flex:1;">
       <div class="eyebrow">Get Started</div>
       <h2 style="font-size:36px; font-weight:700; margin-top:12px;">Let's make your feed worth following.</h2>
