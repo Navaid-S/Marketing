@@ -1,15 +1,19 @@
 ---
 title: "RetailzPOS — 'Ghost of POS Past' Halloween Campaign"
-subtitle: "A fun, quirky Halloween creative concept · Prepared September 2026"
+subtitle: "A fun, quirky Halloween creative concept · IP-cleared v2 · Prepared September 2026"
 ---
+
+# IP note on this version
+
+This version replaces every element that referenced or evoked the Ghostbusters franchise (the name, the "who you gonna call" line, a proton-pack-style device, and any jingle tied to the actual theme song) with an original mechanic: **RetailzPOS's own handheld barcode scanner as the capture device.** See the copyright discussion earlier in this thread for why — trademark and copyright risk is real when a commercial ad leans on a specific franchise's name, catchphrase, or licensed music, even affectionately. The general "ghost gets banished" trope is a public trope nobody owns; nothing below needs the specific franchise to land the joke. This isn't formal legal advice — get quick trademark/legal sign-off before wide distribution regardless, same as any compliance-sensitive content in this project.
 
 # The concept
 
-A retired, flickering, dial-up-groaning ghost — **the Ghost of POS Past** — haunts a store owner with old-system nightmares (manual recounts, missed reorders, a skipped ID check, a customer who quietly stopped coming back). RetailzPOS bursts in, Ghostbusters-style, and busts the ghost. Every joke maps to a real feature — this is the 3-Layer Method wearing a costume, not a departure from it.
+A retired, flickering, dial-up-groaning ghost — **the Ghost of POS Past** — haunts a store owner with old-system nightmares (manual recounts, missed reorders, a skipped ID check, a customer who quietly stopped coming back). The owner's own RetailzPOS handheld scanner becomes the hero prop: point it at the ghost like scanning an item, and the ghost gets rung up, bagged, and gone. Every joke maps to a real feature — this is the 3-Layer Method wearing a costume, not a departure from it.
 
-**Beat structure, reusable across every format below:** haunting → flashback to the old-system nightmare → a "who you gonna call" jingle sting → RetailzPOS busts the ghost → owner deadpans to camera.
+**Beat structure, reusable across every format below:** haunting → flashback to the old-system nightmare → the owner grabs the scanner → a satisfying checkout "beep" → the ghost gets scanned and shrinks away → owner deadpans to camera.
 
-**Visual identity:** a translucent-green, flickering specter styled as a dying CRT terminal or a floating cash register, draped in curling receipt-paper chains, groaning in dial-up-modem tones. Props: a floppy disk, a busted calculator, a "back in 20 min — doing inventory" sign taped to the door.
+**Visual identity:** a translucent-green, flickering specter styled as a dying CRT terminal or a floating cash register, draped in curling receipt-paper chains, groaning in dial-up-modem tones. Props: a floppy disk, a busted calculator, a "back in 20 min — doing inventory" sign taped to the door, and the actual RetailzPOS wireless barcode scanner as the capture device — no costume or prop needed beyond the real hardware.
 
 ---
 
@@ -21,17 +25,17 @@ A retired, flickering, dial-up-groaning ghost — **the Ghost of POS Past** — 
 | 0:04–0:10 | The ghost rises from behind an old register, chained in receipt paper, moaning: *"...no barcodes... count it by haaaand..."* |
 | 0:11–0:18 | Quick sepia/VHS-filtered flashback: a midnight case recount with a clipboard, a fake ID waved through, a regular walking out the door for the last time without anyone noticing. |
 | 0:19–0:24 | Ghost looms in: *"You'll never eeescape the manual reorder..."* |
-| 0:25–0:28 | Jingle sting, gold flash. Cut to a tablet glowing like a proton pack — the RetailzPOS dashboard. |
-| 0:29–0:34 | Ghost gets zapped/sucked into the screen — a flash and a warped-audio dissolve is enough, no expensive VFX needed. |
-| 0:35–0:40 | Owner, calm, to camera: *"Yeah. I don't get haunted anymore."* Beat. *"Case-break inventory. Auto reorder. ID checks that don't need a ghost to get right."* End card: *"Book a demo — no exorcism required."* |
+| 0:25–0:28 | Owner reaches under the counter and grabs the RetailzPOS wireless scanner, glowing gold. Beat of mock-serious determination. |
+| 0:29–0:34 | Owner points the scanner at the ghost like scanning an item. A single, satisfying checkout **BEEP.** The ghost shrinks, sucked toward the scanner like it's being rung up, and vanishes with a little "item added" chime. |
+| 0:35–0:40 | A receipt prints out of frame. Owner glances at it, deadpan, and reads: *"'1x Ghost of POS Past — returned.'"* To camera: *"Case-break inventory. Auto reorder. ID checks that don't need a haunting to get right."* End card: *"Book a demo — no exorcism required."* |
 
-**Caption:** "Every store owner has a Ghost of POS Past. Ours just doesn't come back."
+**Caption:** "Every store owner has a Ghost of POS Past. Ours just gets scanned, bagged, and gone."
 
 **Hashtags:** #RetailzPOS #POSsoftware #LiquorStoreLife #HalloweenMarketing
 
 **Also runs on:** Instagram Reels (primary), TikTok (mirror), Facebook (mirror, native upload).
 
-**Direction:** Zero-budget VFX is fine and arguably funnier — a green color-grade filter, a cheap dissolve transition, and a jingle sting carry the whole joke. Don't over-produce it.
+**Direction:** Zero-budget VFX is fine and arguably funnier — a green color-grade filter, a real checkout beep sound effect, and a printed receipt sight gag carry the whole joke. No jingle, no proton-pack prop, no costume needed — the actual scanner and a real receipt printer are the entire effects budget. Don't over-produce it.
 
 ---
 
@@ -60,7 +64,7 @@ A retired, flickering, dial-up-groaning ghost — **the Ghost of POS Past** — 
 
 **UGC / duet bait — probably the highest-upside piece here:** invite other owners to share their *own* real "POS ghost story." Old-system horror stories are genuinely funny, and nearly every independent store has one — this is the kind of prompt that can spread store-to-store rather than needing paid reach.
 
-**"Ghost of POS Future" bonus (dark-comedy close-out for late October):** a cautionary vision of a store that *didn't* get saved — slowly losing customers to a competitor with better tech. Same beat structure, inverted ending: no jingle sting, no rescue, just a fade to a "for lease" sign. Good, punchier closer for the week.
+**"Ghost of POS Future" bonus (dark-comedy close-out for late October):** a cautionary vision of a store that *didn't* get saved — slowly losing customers to a competitor with better tech. Same beat structure, inverted ending: the owner reaches for the scanner too late, no beep, no rescue, just a fade to a "for lease" sign. Good, punchier closer for the week.
 
 ---
 
