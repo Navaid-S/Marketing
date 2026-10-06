@@ -1,0 +1,209 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;0,700;1,500&family=Inter:wght@400;500;600;700&display=swap');
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: #EDE6D6; }
+  body {
+    width: 680px;
+    margin: 0 auto;
+    font-family: 'Inter', Arial, sans-serif;
+    color: #221F1A;
+  }
+  .sheet { background: #F7F3EC; }
+
+  /* ---------- header ---------- */
+  .header {
+    background: linear-gradient(155deg, #221F1A 0%, #2E2A22 100%);
+    padding: 48px 56px 40px;
+    position: relative;
+  }
+  .header::after {
+    content: "";
+    position: absolute; left: 0; right: 0; bottom: 0;
+    height: 6px;
+    background: linear-gradient(90deg, #D6A429, #F0C66A, #D6A429);
+  }
+  .brand-row { display: flex; align-items: center; gap: 14px; margin-bottom: 30px; }
+  .brand-mark {
+    width: 46px; height: 46px; border-radius: 10px;
+    background: linear-gradient(155deg, #F0C66A, #D6A429);
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px; color: #221F1A;
+  }
+  .brand-name { color: #F7F3EC; font-family: 'Fraunces', serif; font-weight: 600; font-size: 19px; letter-spacing: 0.01em; }
+  .brand-name span { color: #D6A429; }
+
+  .eyebrow {
+    color: #D6A429; font-size: 12px; font-weight: 700; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 14px;
+  }
+  .headline {
+    font-family: 'Fraunces', serif; font-weight: 600; font-size: 34px; line-height: 1.18;
+    color: #F7F3EC; max-width: 480px; margin-bottom: 14px;
+  }
+  .subhead {
+    color: #C9C0AC; font-size: 15px; line-height: 1.55; max-width: 460px;
+  }
+
+  /* ---------- intro ---------- */
+  .intro {
+    padding: 36px 56px 8px;
+    font-size: 15.5px; line-height: 1.7; color: #3A352C;
+  }
+  .intro strong { color: #221F1A; }
+
+  /* ---------- topics ---------- */
+  .topics { padding: 8px 56px 12px; }
+  .topic {
+    background: #FFFFFF;
+    border: 1px solid #E4D9BB;
+    border-radius: 14px;
+    padding: 30px 32px;
+    margin: 22px 0;
+    box-shadow: 0 1px 2px rgba(34,31,26,.05), 0 8px 18px -10px rgba(34,31,26,.14);
+  }
+  .topic-top { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+  .topic-num {
+    flex: none; width: 38px; height: 38px; border-radius: 10px;
+    background: #221F1A; color: #D6A429;
+    font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .topic-tag {
+    font-size: 11.5px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #B8861E;
+  }
+  .topic h2 {
+    font-family: 'Fraunces', serif; font-weight: 600; font-size: 22px; color: #221F1A;
+    line-height: 1.28; margin-bottom: 13px;
+  }
+  .topic p {
+    font-size: 14.5px; line-height: 1.7; color: #45403565; color: #45403580;
+    color: #45403599; color: #403B30;
+  }
+  .talk {
+    margin-top: 18px;
+    background: #FBF2DC;
+    border-left: 4px solid #D6A429;
+    border-radius: 0 8px 8px 0;
+    padding: 13px 18px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: #221F1A;
+  }
+  .talk b { color: #8A6414; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; display: block; margin-bottom: 5px; }
+
+  /* ---------- divider strip ---------- */
+  .strip {
+    margin: 10px 56px 0;
+    padding: 20px 24px;
+    background: #221F1A;
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+  }
+  .strip .left { color: #F7F3EC; font-size: 14px; line-height: 1.5; max-width: 380px; }
+  .strip .left b { color: #D6A429; }
+  .strip .pill {
+    flex: none;
+    background: linear-gradient(155deg, #F0C66A, #D6A429);
+    color: #221F1A; font-weight: 700; font-size: 13px;
+    padding: 11px 20px; border-radius: 999px; white-space: nowrap;
+  }
+
+  /* ---------- footer ---------- */
+  .footer {
+    padding: 34px 56px 46px;
+    text-align: center;
+  }
+  .footer .names {
+    font-family: 'Fraunces', serif; font-weight: 600; font-size: 15px; color: #221F1A;
+    margin-bottom: 6px;
+  }
+  .footer .names span { color: #B8861E; }
+  .footer .fine {
+    font-size: 11.5px; color: #8C8578; line-height: 1.6; max-width: 420px; margin: 10px auto 0;
+  }
+  .footer .rule {
+    width: 60px; height: 3px; background: #D6A429; margin: 0 auto 18px; border-radius: 2px;
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <div class="header">
+    <div class="brand-row">
+      <div class="brand-mark">RZ</div>
+      <div class="brand-name">Retailz<span>POS</span></div>
+    </div>
+    <div class="eyebrow">Partner &amp; Agent Newsletter · October 2026</div>
+    <div class="headline">Your Holiday Season Sales Playbook</div>
+    <div class="subhead">Four programs worth raising on your next merchant call — built around the six biggest inventory weeks of the year.</div>
+  </div>
+
+  <div class="intro">
+    Halloween, Thanksgiving, and New Year's Eve are the three biggest stocking weeks of the year for your liquor, convenience, and smoke/vape merchants — and the best opening you'll get all year to bring real value to the conversation. <strong>Here are four RetailzPOS programs and features worth raising this month.</strong>
+  </div>
+
+  <div class="topics">
+
+    <div class="topic">
+      <div class="topic-top">
+        <div class="topic-num">01</div>
+        <div class="topic-tag">Funding</div>
+      </div>
+      <h2>Stocked for the Rush, Not Stretched for It</h2>
+      <p>Every merchant you work with knows the feeling: Thanksgiving week and New Year's Eve mean ordering two to three times the normal case count, right when cash is already tied up in what's already on the shelf. RetailzPOS's cash advance program gives store owners access to working capital against their own sales, so the order gets placed instead of cut short.</p>
+      <div class="talk"><b>Talking point</b>Ask every merchant this month: what would you stock differently if cash wasn't the limiting factor?</div>
+    </div>
+
+    <div class="topic">
+      <div class="topic-top">
+        <div class="topic-num">02</div>
+        <div class="topic-tag">New Feature</div>
+      </div>
+      <h2>Invoicely RAI: Your Back-Office Safety Net This Season</h2>
+      <p>More orders means more distributor invoices to check line by line, right when owners have zero spare time. Invoicely RAI reads every supplier invoice automatically and updates inventory and costs in seconds — no manual matching, no late nights after close during the busiest stretch of the year.</p>
+      <div class="talk"><b>Talking point</b>Pair this with the cash advance pitch: we help merchants fund the bigger order, and we remove the paperwork that comes with it.</div>
+    </div>
+
+    <div class="topic">
+      <div class="topic-top">
+        <div class="topic-num">03</div>
+        <div class="topic-tag">Loyalty</div>
+      </div>
+      <h2>Moolah Points: Turn Holiday Shoppers Into Regulars</h2>
+      <p>A holiday-only customer is only worth one sale. Moolah Points lets merchants run giftable point promotions and compliant SMS/email campaigns — built with SHAFT/TCPA rules in mind — that bring that same customer back during the slow weeks of January, turning one rush into year-round revenue.</p>
+      <div class="talk"><b>Talking point</b>Position loyalty as January's insurance policy, not just a holiday nice-to-have.</div>
+    </div>
+
+    <div class="topic">
+      <div class="topic-top">
+        <div class="topic-num">04</div>
+        <div class="topic-tag">Compliance</div>
+      </div>
+      <h2>Protection on the Busiest, Most Short-Staffed Nights</h2>
+      <p>Costume-covered faces on Halloween, a skeleton crew on New Year's Eve, a rushed cashier mid-Thanksgiving-rush — holiday season is exactly when a skippable ID prompt turns into a real fine or license risk. RetailzPOS's hard-block age verification can't be clicked past, no matter how busy or short-staffed the shift gets.</p>
+      <div class="talk"><b>Talking point</b>This is the easiest "why RetailzPOS and not a generic POS" answer you have all season.</div>
+    </div>
+
+  </div>
+
+  <div class="strip">
+    <div class="left">Questions on any of these programs? <b>Reach out to your partner manager</b> before your next merchant call.</div>
+    <div class="pill">Let's talk →</div>
+  </div>
+
+  <div class="footer">
+    <div class="rule"></div>
+    <div class="names">Retailz<span>POS</span> &nbsp;·&nbsp; Moolah Points</div>
+    <div class="fine">This newsletter is for RetailzPOS partners and agents only. Program terms are subject to change — confirm current details with your partner manager before presenting to a merchant.</div>
+  </div>
+
+</div>
+</body>
+</html>
