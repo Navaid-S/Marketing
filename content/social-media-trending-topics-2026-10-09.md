@@ -1,0 +1,19 @@
+---
+title: "RetailzPOS / Moolah Points — Daily Trending Topics Brief"
+subtitle: "October 9, 2026"
+---
+
+# Trending now — 4 topics with a genuine brand angle
+
+| # | Trend | Source | Brand-twist content idea |
+|---|---|---|---|
+| 1 | **Spirit Halloween's 2026 costume trend report is out** — Greek-inspired armor and warrior looks, "K-Pop Demon Hunters" masks, superhero costumes, and a broader "horror renaissance" are the top picks this year, with Americans projected to spend $13.5B on Halloween. | [NJBiz — Spirit Halloween Reveals Top Costume Trends for 2026](https://njbiz.com/spirit-halloween-2026-costume-trends/) | **TikTok/Instagram, ties directly to the already-planned "Can a Costume Make Age Verification Harder?" blog.** This year's actual top trends are almost all face-obscuring: warrior helmets, demon-hunter masks, superhero masks. A quick video cycling through a few of this year's specific trending looks — samurai/warrior armor included — each one still getting caught cleanly by a hard-block ID scan, makes the point with real, current costumes instead of a generic "costumes" hook. |
+| 2 | **Halloween falls on a Saturday this year** — the best possible calendar placement for party-night volume, landing in the same stretch as the MLB World Series starting Oct 23. | [Newengen — October 2026 TikTok Trends: Viral Moments You Need to Know](https://newengen.com/insights/october-tiktok-trends/) | **LinkedIn/Instagram, ties directly to the already-planned "Halloween Weekend Liquor Sales" blog.** "Halloween lands on a Saturday this year — the best scheduling possible for a party night, and the worst night to be short-staffed or under-stocked. If your restock plan was built around a weekday Halloween in a past year, this year needs a different one." Concrete, dated, no pricing claims. |
+| 3 | **Athletic Brewing and Graza just released a non-alcoholic collaboration beer**, "Cold Off The Press" — a specific, real product drop riding the NA category's continued momentum. | [Brewbound — Press Releases, Sept. 24, 2026](https://www.brewbound.com/pr/2026/09/24/) | **Instagram/TikTok, product-spotlight post for liquor stores carrying NA.** "Have you seen this yet?" style callout — specific and shareable, a concrete product rather than another macro NA-trend stat (already covered twice this month). Good content for a store that stocks or is considering stocking the NA shelf. |
+| 4 | **Tap-to-pay just crossed 60% of in-person U.S. transactions** (per Visa's own fiscal 2025 reporting, up from under 1% in 2017) — alongside a less-discussed tradeoff: many contactless systems skip PIN entry below a set dollar threshold, which is also the easiest window for a stolen card to get used. | [Duck Hub — Contactless Payment Statistics 2026](https://www.duck-hub.com/blog/contactless-payment-statistics) | **LinkedIn, speed-and-security post.** "Tap-to-pay just crossed 60% of transactions nationally — if checkout still treats it as a nice-to-have, that's friction a competitor down the street has probably already removed. One real question worth asking your POS vendor: how does it handle the PIN-skip window that makes a stolen card easy to use fast? Fast and secure shouldn't be a tradeoff." No product claims — a sharper vendor question, same pattern as recent posts. |
+
+---
+
+**Skipped, no genuine angle today:** TikTok's "Two Fishes" audio (no non-forced retail tie), and this week's vape-flavor-ban searches, which returned only stale 2020 U.S. coverage or non-U.S. jurisdictions (Belgium, Costa Rica) — nothing current enough to use responsibly.
+
+**Compliance check:** none of the above imply pricing, encourage overconsumption, or use underage-adjacent framing — #1 and #2 are operational/compliance content tied to already-planned pieces, #3 is a neutral product spotlight, #4 is a vendor-question framing with no product claim.
