@@ -1,0 +1,18 @@
+---
+title: "RetailzPOS / Moolah Points — Daily Trending Topics Brief"
+subtitle: "October 13, 2026"
+---
+
+# Trending now — 3 topics with a genuine brand angle
+
+| # | Trend | Source | Brand-twist content idea |
+|---|---|---|---|
+| 1 | **Correction/update to the hemp-ban story we flagged Oct 7:** the federal deadline has moved from November 12 to December 11. Congress passed a stopgap funding bill in September (signed into law) delaying the ban by a month — but only for natural hemp products; synthetic hemp-derived products are still covered under the original date. | [Convenience.org — House Votes to Delay Hemp Ban](https://www.convenience.org/stay-current/news/2026/september/2/house-votes-to-delay-hemp-ban), [Northern News Now — Congress Passes Bipartisan Bill to Delay Federal Hemp Ban](https://www.northernnewsnow.com/2026/09/01/congress-passes-bipartisan-bill-delay-federal-hemp-ban-heading-presidents-desk/) | **Instagram/LinkedIn, honest update post.** "Correction to what we flagged a few weeks ago: the federal hemp deadline moved from Nov 12 to Dec 11 — natural hemp products only; synthetic hemp-derived products are still on the original timeline. If CBD is on your shelf, you've got a few more weeks than we first said. Worth updating your own tracking, not relaxing it — no further extension is expected." Transparent about the correction, not just restating old info as new. |
+| 2 | **Diwali falls on Sunday, November 8 this year** — about three and a half weeks out, with the five-day observance running Nov 6–10 (Dhanteras through Bhai Dooj). | [Kissht — Diwali 2026: Date, Puja Muhurat & Lakshmi Puja Timing](https://www.kissht.com/blog/diwali-2026-date-and-lakshmi-puja-timing) | **Instagram/LinkedIn, early heads-up post.** "Diwali is Sunday, Nov 8 this year — about three and a half weeks out. If your store serves a South Asian customer base, this is the week to start thinking about gifting bundles and shelf space, not the week before." Kept deliberately general — U.S. convenience-store-specific Diwali merchandising data wasn't reliably available this week, so this is a planning nudge, not a prescriptive guide. |
+| 3 | **TikTok's "Two Fishes" trend** — built on a Love Island USA clip of a contestant calmly, confidently defending an opinion nobody asked him to defend; creators use it for a deadpan "TED Talk from bed" defense of a take. | [Newengen — October 2026 TikTok Trends: Viral Moments You Need to Know](https://newengen.com/insights/october-tiktok-trends/) | **TikTok, format-jack.** Deliver completely deadpan, staring straight at the camera: "Two Fishes: why we still hard-block the age check on a regular we've known for five years." The format's comedy is the unwavering confidence — perfect fit for a policy that sounds strict but is obviously correct once you hear the reasoning. Light, no lecture, compliance message wrapped in a trending bit. |
+
+---
+
+**Skipped, no genuine angle today:** another MLB postseason angle (ALCS is now set — Rays vs. Cleveland, NLCS is Dodgers vs. Brewers — but postseason content has already run multiple times this month; holding this until the World Series actually starts Oct 23 for a genuinely new angle), and consumer-confidence data (the October reading isn't out yet, and older figures found weren't reliably dated to 2026).
+
+**Compliance check:** none of the above imply pricing, encourage overconsumption, or use underage-adjacent framing — #1 is a transparent regulatory correction, #2 is a general planning nudge with no specific claims, #3 is a light format-jack that reinforces a compliance message rather than undermining one.
