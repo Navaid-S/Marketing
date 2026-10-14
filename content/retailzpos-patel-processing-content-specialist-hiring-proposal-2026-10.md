@@ -51,7 +51,7 @@ Same caveat as above — no Henry County–specific pay data exists that I could
 | Entry-level Social Media Agent, Atlanta | ~$45,000–$65,500 (annualized) | Live posting, Fresh Form Draft |
 | Digital Content Specialist, Atlanta (public sector) | $50,000–$60,000 entry | GA Dept. of Economic Development posting |
 
-**My recommendation: $48,000–$68,000/year base** — up from my first draft's $42K–$58K, specifically because SEO/AEO/GEO strategy is a distinct, higher-paying skill in the market (SEO Specialists in Atlanta cluster $60K–$80K), worth meaningfully more than general content/social coordination alone. I'd lean toward the lower half ($48K–$56K) for someone with strong writing/research instincts who's still building hands-on AEO/GEO experience, and toward the top ($60K–$68K) for a candidate who can already show they understand how to get content cited by AI search tools, not just written well.
+**Budget I'm working within: $42,000–$55,000/year base.** Worth flagging honestly: the market data above puts AEO/SEO strategy skill closer to $60K–$80K in Atlanta, so this range is competitive for the content-writing and social-coordination side of the role but sits below where dedicated SEO/AEO experience actually prices. Practically, that likely means we're hiring someone with strong research and writing fundamentals and real interest in AEO/GEO who builds that expertise with us, rather than someone who walks in with it already proven. I think that's a reasonable trade-off at this budget — just wanted to be upfront that it's a trade-off, not a market-rate match for the full scope.
 
 ---
 
@@ -66,7 +66,7 @@ Here's the posting I'd propose we run, on Indeed, LinkedIn, ZipRecruiter, and an
 **Location:** Henry County, GA (McDonough area) — [on-site / hybrid / remote-eligible — need a decision]
 **Employment Type:** Full-time
 **Level:** Entry to Mid-Level
-**Compensation:** $48,000–$68,000/year, based on experience [pending sign-off]
+**Compensation:** $42,000–$55,000/year, based on experience
 
 **About the Role**
 
@@ -111,7 +111,7 @@ You'll also help with video shoots and appear on camera as a talking head when a
 # What I need from you
 
 1. **Sign-off on the title** — recommending "Content Specialist & Social Media Coordinator"
-2. **Sign-off on the compensation range** — recommending $48,000–$68,000/year
+2. **Sign-off on the compensation range** — $42,000–$55,000/year
 3. **A decision on work location** — on-site, hybrid, or remote-eligible
 4. **Go-ahead to post** on Indeed, LinkedIn, ZipRecruiter, and relevant local boards
 

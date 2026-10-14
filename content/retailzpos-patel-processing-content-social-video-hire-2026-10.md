@@ -44,11 +44,11 @@ No Henry County–specific salary data exists in available sources. The figures 
 | Digital Content Specialist, Atlanta (public sector) | Georgia Dept. of Economic Development posting | Entry: $50,000–$60,000 | Government benchmark, not private-sector, but a real local-ish figure |
 | SEO Specialist, Atlanta | [Orbyt](https://www.orbytjobs.ai/salaries/seo-specialist/atlanta); live Mondo posting | Entry (0-2yrs): $47,000–$58,000 / Mid (3-5yrs): $62,000–$77,000; live posting at $70,000–$80,000 | The clearest comp for the SEO/AEO strategy half of this role — and the main reason the range below moved up from the earlier draft |
 
-**Synthesis:** adding real SEO/AEO/GEO strategy ownership changes the comp picture meaningfully from the earlier draft. For a hire covering content planning, AI-search-citation strategy, writing, social media management, trend/competitor research, on-set assistance, and on-camera appearances (no independent shooting or editing) — entry-to-mid level, Henry County/south Atlanta metro — a reasonable base salary range is:
+**Market synthesis** (research-based, before budget constraints): adding real SEO/AEO/GEO strategy ownership pushes the market-comparable range toward $48,000–$68,000/year, since SEO Specialists in Atlanta cluster $60K–$80K — meaningfully more than general social-media coordination alone.
 
-### **$48,000 – $68,000/year**
+### **Approved range: $42,000 – $55,000/year**
 
-This is **higher than the earlier draft's $42K–$58K range**, specifically because SEO/AEO/GEO strategy is a distinct, higher-paying skill in the market (SEO Specialists in Atlanta cluster $60K–$80K) — meaningfully more valuable than general social-media coordination alone, even though shooting/editing are still out of scope. If the candidate has the writing and research instincts but is still building hands-on AEO/GEO experience, the lower half ($48K–$56K) fits. For someone who can walk in already understanding how to structure content for AI citation — direct-answer formatting, FAQ/schema structuring, competitor and citation-pattern research — budget toward $60K–$68K.
+This is the finalized budget for the role, set below the SEO-specialist market comps above. Worth noting plainly: at this range, the posting is competitive for the content-writing and social-coordination side of the role, but sits below where the market prices dedicated SEO/AEO experience (Atlanta SEO Specialists cluster $60K–$80K). In practice, that likely means hiring someone with strong research/writing fundamentals and real interest in AEO/GEO who will build that expertise on the job, rather than someone who walks in with it already proven — which is a reasonable trade-off at this budget, just worth having eyes open about.
 
 ---
 
@@ -63,7 +63,7 @@ This is **higher than the earlier draft's $42K–$58K range**, specifically beca
 **Location:** Henry County, GA (McDonough area) — [confirm: on-site / hybrid / remote-eligible]
 **Employment Type:** Full-time
 **Level:** Entry to Mid-Level
-**Compensation:** $48,000–$68,000/year, based on experience [confirm before posting]
+**Compensation:** $42,000–$55,000/year, based on experience
 
 **About the Role**
 
