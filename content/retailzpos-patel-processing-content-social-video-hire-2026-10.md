@@ -55,7 +55,8 @@ This is **lower than the earlier draft's $45K–$62K range**, specifically becau
 
 ---
 
-**Job Title:** Content Strategist & Social Media Coordinator — RetailzPOS & Patel Processing
+**Job Title:** Content Specialist — RetailzPOS & Patel Processing
+*(Equally fitting alternates, if you want to test which pulls better applicants: "Content Strategist & Social Media Coordinator" or "Content & Social Media Specialist" — all three match real postings for this kind of role; "Content Specialist" alone is the cleanest and most commonly searched title of the three.)*
 
 **Location:** Henry County, GA (McDonough area) — [confirm: on-site / hybrid / remote-eligible]
 **Employment Type:** Full-time
