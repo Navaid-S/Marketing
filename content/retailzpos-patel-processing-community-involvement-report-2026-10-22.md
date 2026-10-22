@@ -1,15 +1,19 @@
 ---
 title: "Community Involvement Opportunities"
-subtitle: "RetailzPOS / Vitreous Alliance · Patel Processing — Henry County, GA & surrounding area · October 22, 2026"
+subtitle: "RetailzPOS / Vitreous Alliance · Patel Processing — Henry County, GA & Metro Atlanta · October 22, 2026"
 ---
 
 # About this report
 
-This is the first of a recurring report, delivered every 4 days, surfacing real community events, sponsorships, and involvement opportunities in Henry County, GA and the surrounding south-metro-Atlanta area where RetailzPOS and Vitreous Alliance / Patel Processing could get involved — as a sponsor, vendor/booth presence, networking participant, or community-giving partner.
+This is the first of a recurring report, delivered every 4 days, surfacing real community events, sponsorships, and involvement opportunities — originally scoped to Henry County, GA, now expanded to cover the broader metro Atlanta area as well — where RetailzPOS and Vitreous Alliance / Patel Processing could get involved: as a sponsor, vendor/booth presence, networking participant, or community-giving partner.
 
-**Honesty note on the data:** Henry County is a smaller market. Several categories (town-square festival exact 2026/2027 dates, Rotary/Lions sponsorship tiers, a dedicated Henry County small-business expo) turned up genuinely thin or unconfirmed. Where a date or detail couldn't be verified, it's flagged below rather than guessed at — several leads need a direct phone call or a check of the organizer's own site to confirm before committing.
+**Honesty note on the data:** Henry County is a smaller market, so several local categories (town-square festival exact 2026/2027 dates, Rotary/Lions sponsorship tiers, a dedicated Henry County small-business expo) turned up genuinely thin or unconfirmed. The metro Atlanta sections below are richer but also more seasonally uneven — several of the area's biggest annual galas, golf tournaments, and fintech conferences already ran earlier in 2026 and are noted here as 2027 planning items rather than live opportunities. Where a date or detail couldn't be verified, it's flagged below rather than guessed at — several leads need a direct phone call or a check of the organizer's own site to confirm before committing.
+
+**Time-sensitive flag:** the Cristo Rey Atlanta golf tournament (Charity & Sponsorship, Metro Atlanta section) is Monday, October 26 — only 4 days out. If there's any interest, that decision needs to happen this week.
 
 ---
+
+# PART 1 — Henry County, GA
 
 # Chamber of Commerce / Networking
 
@@ -70,10 +74,66 @@ No Diwali event was found specifically in McDonough, Stockbridge, or elsewhere i
 
 ---
 
-# Scope note
+# Henry County scope note
 
-This pass covered Henry County towns (McDonough, Stockbridge, Hampton, Locust Grove) directly. It did not search Clayton, Fayette, Spalding, Newton, Butts, or Rockdale counties individually beyond general searches that didn't surface county-specific events. A future edition of this report can expand to each neighboring county by name if broader regional coverage is wanted.
+This pass covered Henry County towns (McDonough, Stockbridge, Hampton, Locust Grove) directly. It did not search Clayton, Fayette, Spalding, Newton, Butts, or Rockdale counties individually beyond general searches that didn't surface county-specific events.
 
 ---
 
-*This report recurs every 4 days. Each edition will aim to surface newly-dated opportunities and avoid repeating leads already reported, except to flag status changes (a date now confirmed, a deadline approaching, or an opportunity that's passed).*
+# PART 2 — Metro Atlanta
+
+*Added at the user's request to broaden this report's geographic scope beyond Henry County. Covers the city of Atlanta and the wider metro area (Fulton, DeKalb, Clayton, Fayette, Cobb, Gwinnett).*
+
+# Chamber of Commerce / Networking (Metro Atlanta)
+
+**TAG (Technology Association of Georgia) Chairs' Gala 2026.** Thursday, Nov 19, 2026, 6–11pm at Hotel Phoenix, Atlanta. TAG's premier annual evening event. *Get involved:* contact sponsorship@tagonline.org for sponsorship/attendance. *Source:* [TAG member calendar](https://members.tagonline.org/calendar/Details/tag-chairs-gala-2026-1569285). *Fit:* puts Patel Processing's fintech side in front of Georgia's broader tech/innovation business community — a step up in scale from Henry County networking, and well within the next 1-month window.
+
+**Metro Atlanta Chamber — Annual Meeting.** No 2026 date confirmed yet; the 2025 edition ran Nov 13, 2025 at the College Football Hall of Fame, so a 2026 edition likely follows a similar November pattern. *Source:* [Metro Atlanta Chamber news/events](https://metroatlantachamber.com/about-the-chamber/news-and-events/). *Action:* check the chamber's site directly — worth a direct inquiry given this is Atlanta's flagship business chamber.
+
+**Georgia Hispanic Chamber of Commerce (GHCC).** 1,100+ attendees at its signature events. The 2026 flagship gala (Aug 29) and golf tournament (Apr 30) have already passed this cycle; the gala's sponsorship window ran June 15–Aug 7, 2026. *Source:* [GHCC 2026 Signature Events](https://www.ghcc.org/2026-signature-events-overview). *Action:* flag for the 2027 cycle — watch for the sponsorship window opening next summer.
+
+*The Atlanta Black Chamber of Commerce turned up no confirmed 2026 events or sponsorship info in this search — genuinely thin, needs a direct site check.*
+
+# Fintech / Payments Industry Events (Metro Atlanta)
+
+**Fintech South (TAG).** Already ran Aug 18–19, 2026 at Truist Park, themed "Where Money Moves" (payments, banking, lending, cybersecurity). Already passed, but this is TAG's annual flagship fintech conference and the single best-fit event found for Patel Processing specifically — **mark for 2027 planning now.** *Source:* [TAG — Fintech South recap](https://www.tagonline.org/blog/innovation-in-motion-fintech-ai-and-the-future-of-georgia/).
+
+**TRANSACT-style payments show, Georgia World Congress Center.** Ran Mar 18–20, 2026 (real-time rails, AI risk, partner meetups). Already passed. *Source:* [transactshow.com](https://transactshow.com/). *Action:* watch for a 2027 Atlanta date.
+
+*No fall/winter 2026 Atlanta-based payments/acquirer conference was found — this category is seasonally thin right now; both events above are spring/summer-timed, so the next real opportunity is 2027 planning.*
+
+# Festivals & Holiday Markets (Metro Atlanta, next 1–2 months)
+
+**Jingle & Mingle Holiday Market (Junior League of Atlanta).** Nov 1, 2026 at JLA headquarters. Vendor categories: gifts/home décor, apparel, jewelry/handmade, specialty foods, art. Contact: holidaymarket@jlatlanta.org. *Source:* [JLA listing](https://www.jlatlanta.org/?p=8891). *Fit:* community-goodwill visibility tied to a respected civic organization — not a direct retail-customer fit, but strong for brand goodwill.
+
+**Buckhead Handmade Holiday Market.** Dec 5–6, 2026, outdoor arts market (~75 exhibitors). Applications via Eventeny. *Source:* [Eventeny listing](https://www.eventeny.com/events/buckhead-handmade-holiday-market-2026-sat-33926/). *Fit:* affluent-neighborhood visibility; more a sponsorship-banner fit than a natural vendor-booth fit for a POS/fintech company.
+
+**Atlanta Christkindl Market (Lawrenceville)** and **2026 Atlanta Christmas Arts, Crafts & Holiday Vendor Market (Dec 11–13, Cherokee Ave SE)** — both found but listings are tentative/unconfirmed, with no vendor application link surfaced for the latter. Worth a direct follow-up with organizers before committing.
+
+# Charity & Sponsorship Opportunities (Metro Atlanta)
+
+**Cristo Rey Atlanta Jesuit — Bill Garrett President's Cup Golf Tournament.** Monday, **October 26, 2026** — 4 days from this report's delivery. Capital City Club, Brookhaven. Presenting sponsorship ($30K) already sold out; Platinum $20K, Gold $12.5K, Silver $7K, Bronze $3.5K, Hole $1.5K still open. *Source:* [Cristo Rey Atlanta](https://www.cristoreyatlanta.org/fs/pages/499). *Fit:* time-sensitive — only actionable this week; otherwise mark for 2027.
+
+*No other Atlanta-area galas or golf tournaments were found scheduled in the Nov–Dec 2026 window — most major Atlanta nonprofit fundraisers (Wellstar Foundation, Assistance League, AKF, Children's Museum of Atlanta) already ran in their typical Aug–Oct slots. Seasonally thin right now; most leads here are 2027 planning items.*
+
+# Multicultural / Heritage Events (Metro Atlanta)
+
+**Diwali in Atlanta proper — no confirmed 2026 event found.** Past precedent exists: Atlanta Mayor Andre Dickens hosted a Diwali celebration at City Hall with the Coalition of Hindus of North America in 2024 (250+ attendees), and Atlantic Station ran a first-time Diwali festival in 2024 (Bollywood screening, henna, vendors) — but neither is confirmed for 2026. *Sources:* [South Asian Herald](https://southasianherald.com/atlanta-mayor-celebrates-diwali-with-the-hindu-community/); [Secret Atlanta — Diwali at Atlantic Station](https://secretatlanta.co/diwali-atlantic-station/). *Action:* with Diwali on Nov 8, checking Atlanta City Hall's events office and Atlantic Station directly in the next two weeks could catch a 2026 revival before it's announced publicly.
+
+**Georgia Indo-American Chamber of Commerce (GIACC).** A real, active Atlanta-area South Asian business chamber — co-hosted a 2022 Atlanta Trade Event with the Gwinnett Chamber (Sen. Jon Ossoff and India's Atlanta Consul General attended) and a 2023 small-business import/export networking event, but no 2026 calendar surfaced in search. *Source:* [Global Atlanta GIACC listings](https://www.globalatlanta.com/events/category/export/day/2023-08-17/). *Action:* given RetailzPOS's South Asian merchant base, this is the strongest multicultural-fit lead in the whole report — worth direct outreach to GIACC rather than waiting on search results.
+
+# Business / Retail-Specific Events (Metro Atlanta)
+
+**Small Business Expo — Atlanta.** One-day event, Dec 16, 2026, Georgia International Convention Center (organizer estimate: ~10,000 attendees / 100 exhibitors). Organizer: The Show Producers. *Source:* [Tradefest listing](https://tradefest.io/en/event/small-business-expo-atlanta). *Fit:* direct small-business-owner audience at convention-center scale — the strongest Atlanta-proper retail/business expo lead found. Verify directly with the organizer before committing, as this is a third-party aggregator listing.
+
+*No NACS-adjacent or additional convenience-store trade events beyond the already-covered GACS show were found specifically in the Atlanta metro area for this window.*
+
+---
+
+# Scope note
+
+Henry County pass covered McDonough, Stockbridge, Hampton, Locust Grove directly, without individually searching Clayton, Fayette, Spalding, Newton, Butts, or Rockdale counties. The Metro Atlanta pass covered the city of Atlanta, Buckhead, Brookhaven, and Lawrenceville, but did not specifically search Cobb or Gwinnett county municipal festivals (e.g. Marietta Square, Duluth events) — a future edition can expand there if broader suburban-metro coverage is wanted.
+
+---
+
+*This report recurs every 4 days and now covers both Henry County and metro Atlanta. Each edition will aim to surface newly-dated opportunities and avoid repeating leads already reported, except to flag status changes (a date now confirmed, a deadline approaching, or an opportunity that's passed).*
