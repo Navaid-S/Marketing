@@ -1,0 +1,17 @@
+---
+title: "RetailzPOS / Moolah Points — Daily Trending Topics Brief"
+subtitle: "October 22, 2026"
+---
+
+# Trending now — 2 topics with a genuine brand angle
+
+| # | Trend | Source | Brand-twist content idea |
+|---|---|---|---|
+| 1 | **The 2026 World Series kicks off Friday, October 23** on Fox — the National League side is set (Dodgers or Brewers, pending the final NLCS result), with the American League side coming out of Guardians vs. Rays. The first confirmed, dated World Series detail genuinely new enough to use, after holding the storyline through the postseason. | [MLB.com — What you need to know about the 2026 World Series](https://www.mlb.com/news/2026-mlb-world-series-faq-schedule-times-teams-and-more) | **Instagram/LinkedIn, big-game-night traffic post.** "World Series Game 1 is Friday. Every October it's the same story: a big game means a last-minute rush for snacks, drinks, and ice right before first pitch. If your shelves and your checkout line are ready for that kind of spike tonight and through the Series, that's the difference between catching the extra traffic and watching people walk to the next store over." No betting/odds language, no pricing — a stock-and-staffing readiness post tied to a real, dated event. |
+| 2 | **Powerball and Mega Millions jackpots are both climbing right now** — Powerball hit $607 million as of October 18, and Mega Millions hit $413 million as of October 17, both without a winner yet. Rising, uncapped jackpots reliably drive extra in-store lottery foot traffic. | [Inquirer.net — Powerball jackpot rises to $607 million](https://usa.inquirer.net/category/community/news/lottery-news); [Casino.org — Mega Millions jackpot coverage](https://casino.org/news/mega-millions-is-up-to-800-million-one-of-the-10-biggest-jackpots) | **Instagram/LinkedIn, LottoGuru tie-in.** "Powerball's at $607 million, Mega Millions is at $413 million, and neither has a winner yet — that's exactly the kind of jackpot run that pulls extra people through the door to play. Worth checking that lottery is quick and simple to ring up at your counter right now, since a slow lottery line during a jackpot week is a line people don't wait in twice." No odds/pricing claims — ties a real current jackpot story directly to the LottoGuru module without overstating odds of winning. |
+
+---
+
+**Skipped, no genuine angle today:** Convenience-store/liquor-store industry searches for this specific week turned up nothing dated newer than Oct 18 beyond what's above. Hemp/CBD search returned no current-week news. Diwali 2026 business news — still no dated items from this week. Black Friday 2026 prep content — only speculative/templated forecast pieces, no concrete news item to anchor a post. Fintech/loyalty news — the one semi-fresh item (Adyen–Talon.One) was already identified and skipped as stale in a prior brief. Gas station theft/crime items found were all isolated local incidents, not a trend story. Alabama's Oct. 1 indoor vaping restriction — real but three weeks old and a thin, public-venue-use rule rather than a retail-facing one. AI self-checkout coverage — nothing dated to this week.
+
+**Compliance check:** neither idea implies pricing, encourages overconsumption, or uses underage-adjacent framing — #1 is a stocking/staffing readiness prompt around a mainstream sporting event with no alcohol/age-restricted product mention; #2 references real, published jackpot figures without making any odds-of-winning or "you could win" claim, framing it purely as a foot-traffic/checkout-readiness point.
