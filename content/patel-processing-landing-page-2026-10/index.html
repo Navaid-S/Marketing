@@ -14,10 +14,10 @@
   --ink:#07050d;
   --ink-2:#0f0b18;
   --ink-3:#171223;
-  --paper:#f7f5fa;
+  --paper:#f3f6f9;
   --paper-2:#ffffff;
-  --text:#14111c;
-  --muted:#6b6577;
+  --text:#0f1620;
+  --muted:#5f6b78;
   --line:rgba(20,17,28,.09);
   --on-dark:#f4f1f8;
   --on-dark-muted:rgba(244,241,248,.62);
@@ -29,8 +29,11 @@
   --violet:#4f1b62;
   --blue:#2f6fb6;
   --green:#1f8a4b;
-  --grad:linear-gradient(100deg,#c3004f 0%,#8a1c72 35%,#4f1b62 60%,#2f6fb6 82%,#1f8a4b 100%);
-  --grad-top:linear-gradient(95deg,#c3004f,#7d1a6e 55%,#4f1b62);
+  --blue-deep:#1f5596;
+  --teal:#1c7a86;
+  --sky:#7cc0f2;
+  --grad:linear-gradient(100deg,#2f6fb6 0%,#2a85a8 40%,#22906e 70%,#1f8a4b 100%);
+  --grad-top:linear-gradient(95deg,#1f5596,#2f6fb6 40%,#1f8a4b);
 
   --radius:22px;
   --ease:cubic-bezier(.16,1,.3,1);
@@ -52,11 +55,11 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 .btn{display:inline-flex;align-items:center;gap:10px;height:52px;padding:0 26px;border-radius:999px;font-weight:600;font-size:16px;letter-spacing:-.01em;transition:transform .4s var(--ease),box-shadow .4s var(--ease),background .3s;white-space:nowrap}
 .btn svg{width:16px;height:16px;transition:transform .4s var(--ease)}
 .btn:hover svg{transform:translateX(3px)}
-.btn-primary{background:#fff;color:var(--ink);box-shadow:0 0 0 1px rgba(255,255,255,.2),0 10px 40px -10px rgba(195,0,79,.6)}
-.btn-primary:hover{transform:translateY(-2px);box-shadow:0 0 0 1px rgba(255,255,255,.3),0 18px 50px -12px rgba(195,0,79,.8)}
+.btn-primary{background:#fff;color:var(--ink);box-shadow:0 0 0 1px rgba(255,255,255,.2),0 10px 40px -10px rgba(47,111,182,.6)}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 0 0 1px rgba(255,255,255,.3),0 18px 50px -12px rgba(47,111,182,.8)}
 .btn-ghost{color:var(--on-dark);box-shadow:inset 0 0 0 1px rgba(255,255,255,.18)}
 .btn-ghost:hover{background:rgba(255,255,255,.06)}
-.btn-grad{background:var(--grad-top);color:#fff;box-shadow:0 12px 40px -12px rgba(195,0,79,.7)}
+.btn-grad{background:var(--grad-top);color:#fff;box-shadow:0 12px 40px -12px rgba(47,111,182,.7)}
 .btn-grad:hover{transform:translateY(-2px)}
 .btn-dark{background:var(--ink);color:#fff}
 .btn-dark:hover{transform:translateY(-2px)}
@@ -85,10 +88,10 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 .hero{position:relative;padding:140px 0 100px;overflow:hidden;isolation:isolate;display:flex;align-items:center}
 .aurora{position:absolute;inset:-20%;z-index:-2;filter:blur(90px) saturate(130%);opacity:.75}
 .aurora i{position:absolute;border-radius:50%;mix-blend-mode:screen;will-change:transform}
-.aurora i:nth-child(1){width:46vw;height:46vw;left:48%;top:8%;background:radial-gradient(circle,#c3004f 0,transparent 65%);animation:drift1 22s var(--ease-in-out) infinite alternate}
-.aurora i:nth-child(2){width:40vw;height:40vw;left:62%;top:38%;background:radial-gradient(circle,#4f1b62 0,transparent 65%);animation:drift2 26s var(--ease-in-out) infinite alternate}
-.aurora i:nth-child(3){width:34vw;height:34vw;left:72%;top:-6%;background:radial-gradient(circle,#2f6fb6 0,transparent 65%);animation:drift3 20s var(--ease-in-out) infinite alternate}
-.aurora i:nth-child(4){width:30vw;height:30vw;left:40%;top:58%;background:radial-gradient(circle,#1f8a4b 0,transparent 65%);opacity:.7;animation:drift1 30s var(--ease-in-out) infinite alternate-reverse}
+.aurora i:nth-child(1){width:46vw;height:46vw;left:48%;top:8%;background:radial-gradient(circle,#2f6fb6 0,transparent 65%);animation:drift1 22s var(--ease-in-out) infinite alternate}
+.aurora i:nth-child(2){width:40vw;height:40vw;left:62%;top:38%;background:radial-gradient(circle,#1f8a4b 0,transparent 65%);animation:drift2 26s var(--ease-in-out) infinite alternate}
+.aurora i:nth-child(3){width:34vw;height:34vw;left:72%;top:-6%;background:radial-gradient(circle,#1c7a86 0,transparent 65%);animation:drift3 20s var(--ease-in-out) infinite alternate}
+.aurora i:nth-child(4){width:30vw;height:30vw;left:40%;top:58%;background:radial-gradient(circle,#2a85a8 0,transparent 65%);opacity:.35;animation:drift1 30s var(--ease-in-out) infinite alternate-reverse}
 @keyframes drift1{to{transform:translate(-8vw,6vh) scale(1.15)}}
 @keyframes drift2{to{transform:translate(6vw,-8vh) scale(.9)}}
 @keyframes drift3{to{transform:translate(-10vw,10vh) scale(1.2)}}
@@ -159,7 +162,7 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 .waves path{opacity:.25;animation:wave 1.4s infinite}
 .waves path:nth-child(2){animation-delay:.15s}.waves path:nth-child(3){animation-delay:.3s}
 @keyframes wave{40%{opacity:1}}
-.spinner{width:58px;height:58px;border-radius:50%;background:conic-gradient(from 0deg,transparent 0 25%,#c3004f,#2f6fb6,#1f8a4b);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 5px),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - 5px),#000 0);animation:spin .8s linear infinite}
+.spinner{width:58px;height:58px;border-radius:50%;background:conic-gradient(from 0deg,transparent 0 25%,#2f6fb6,#2a85a8,#2bb673);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 5px),#000 0);mask:radial-gradient(farthest-side,transparent calc(100% - 5px),#000 0);animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(1turn)}}
 .check{width:72px;height:72px}
 .check circle{fill:rgba(61,220,132,.14);stroke:#3ddc84;stroke-width:2.5;stroke-dasharray:220;stroke-dashoffset:220}
@@ -176,7 +179,7 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 /* Credit card */
 .l-card{left:262px;top:362px;--d:34}
 .l-card .enter{transition-delay:.75s}
-.ccard{width:290px;height:182px;border-radius:18px;padding:20px 22px;position:relative;overflow:hidden;color:#fff;background:linear-gradient(125deg,#c3004f 0%,#7d1a6e 38%,#3a1550 62%,#1b3f75 85%,#1f8a4b 120%);box-shadow:inset 0 0 0 1px rgba(255,255,255,.2),0 40px 70px -24px rgba(124,10,80,.75);transform:rotate(-9deg);transition:transform .9s var(--ease)}
+.ccard{width:290px;height:182px;border-radius:18px;padding:20px 22px;position:relative;overflow:hidden;color:#fff;background:linear-gradient(125deg,#1b4a8a 0%,#2f6fb6 34%,#1c7a86 66%,#1f8a4b 100%);box-shadow:inset 0 0 0 1px rgba(255,255,255,.2),0 40px 70px -24px rgba(20,90,120,.75);transform:rotate(-9deg);transition:transform .9s var(--ease)}
 .ccard::before{content:"";position:absolute;inset:0;background:radial-gradient(120% 90% at 85% -10%,rgba(255,255,255,.35),transparent 45%),repeating-linear-gradient(115deg,rgba(255,255,255,.04) 0 2px,transparent 2px 9px)}
 .ccard::after{content:"";position:absolute;top:0;bottom:0;width:40%;left:-60%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.35),transparent);transform:skewX(-18deg);animation:sheen 6s var(--ease-in-out) infinite 2s}
 @keyframes sheen{0%,70%{left:-60%}100%{left:130%}}
@@ -208,7 +211,7 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 /* Orbit ring */
 .l-ring{left:60px;top:60px;--d:6}
 .ring{width:480px;height:480px;border-radius:50%;border:1px dashed rgba(255,255,255,.08);animation:spin 80s linear infinite}
-.ring::before{content:"";position:absolute;top:-4px;left:50%;width:8px;height:8px;border-radius:50%;background:#c3004f;box-shadow:0 0 18px 4px rgba(195,0,79,.6)}
+.ring::before{content:"";position:absolute;top:-4px;left:50%;width:8px;height:8px;border-radius:50%;background:#2f6fb6;box-shadow:0 0 18px 4px rgba(47,111,182,.6)}
 
 /* ---------- Marquee ---------- */
 .marquee{padding:34px 0;border-top:1px solid var(--line-dark);border-bottom:1px solid var(--line-dark);overflow:hidden;mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent);-webkit-mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent)}
@@ -222,9 +225,9 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 section{position:relative}
 .sec{padding:140px 0}
 @media (max-width:720px){.sec{padding:96px 0}}
-.kicker{display:inline-flex;align-items:center;gap:10px;font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--plum);margin-bottom:20px}
+.kicker{display:inline-flex;align-items:center;gap:10px;font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--blue-deep);margin-bottom:20px}
 .kicker::before{content:"";width:22px;height:2px;background:var(--grad-top);border-radius:2px}
-.on-dark .kicker{color:#f07ab1}
+.on-dark .kicker{color:var(--sky)}
 h2{font-size:clamp(38px,5vw,68px);line-height:1.02;letter-spacing:-.04em;font-weight:600;max-width:900px}
 .sec-sub{font-size:19px;color:var(--muted);max-width:620px;margin-top:22px}
 .on-dark .sec-sub{color:var(--on-dark-muted)}
@@ -245,8 +248,8 @@ h2{font-size:clamp(38px,5vw,68px);line-height:1.02;letter-spacing:-.04em;font-we
 
 /* Bento */
 .bento{display:grid;grid-template-columns:repeat(6,1fr);gap:18px;margin-top:72px}
-.tile{position:relative;background:var(--paper-2);border-radius:28px;padding:34px;overflow:hidden;box-shadow:0 0 0 1px var(--line),0 30px 60px -40px rgba(40,10,60,.25);transition:transform .6s var(--ease),box-shadow .6s var(--ease);min-height:320px;display:flex;flex-direction:column}
-.tile:hover{transform:translateY(-4px);box-shadow:0 0 0 1px var(--line),0 40px 80px -40px rgba(80,10,80,.35)}
+.tile{position:relative;background:var(--paper-2);border-radius:28px;padding:34px;overflow:hidden;box-shadow:0 0 0 1px var(--line),0 30px 60px -40px rgba(10,30,60,.25);transition:transform .6s var(--ease),box-shadow .6s var(--ease);min-height:320px;display:flex;flex-direction:column}
+.tile:hover{transform:translateY(-4px);box-shadow:0 0 0 1px var(--line),0 40px 80px -40px rgba(10,50,90,.35)}
 .tile h3{font-size:24px;letter-spacing:-.025em;font-weight:600;margin-bottom:10px}
 .tile p{color:var(--muted);font-size:16px;max-width:420px}
 .tile .viz{margin-top:auto;padding-top:30px}
@@ -260,7 +263,7 @@ h2{font-size:clamp(38px,5vw,68px);line-height:1.02;letter-spacing:-.04em;font-we
 
 .channels{display:flex;gap:14px;flex-wrap:wrap}
 .chan{flex:1 1 150px;border-radius:18px;padding:18px;background:var(--paper);box-shadow:inset 0 0 0 1px var(--line)}
-.chan svg{width:26px;height:26px;color:var(--plum);margin-bottom:12px}
+.chan svg{width:26px;height:26px;color:var(--blue-deep);margin-bottom:12px}
 .chan b{display:block;font-size:15px}
 .chan small{color:var(--muted);font-size:13px}
 
@@ -274,7 +277,7 @@ h2{font-size:clamp(38px,5vw,68px);line-height:1.02;letter-spacing:-.04em;font-we
 
 .timeline{display:flex;align-items:center;gap:10px}
 .timeline .dot{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.18);font-size:12px;font-weight:600}
-.timeline .dot.done{background:#fff;color:var(--plum)}
+.timeline .dot.done{background:#fff;color:var(--blue-deep)}
 .timeline .bar{flex:1;height:2px;background:rgba(255,255,255,.3);position:relative;overflow:hidden}
 .timeline .bar::after{content:"";position:absolute;inset:0;background:#fff;transform:scaleX(0);transform-origin:left;transition:transform 1.4s var(--ease) .3s}
 .in .timeline .bar::after{transform:scaleX(1)}
@@ -293,17 +296,17 @@ h2{font-size:clamp(38px,5vw,68px);line-height:1.02;letter-spacing:-.04em;font-we
 @keyframes typing{30%{transform:translateY(-4px);opacity:1}0%,60%,100%{opacity:.4}}
 
 /* Calculator */
-.calc{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:72px;border-radius:32px;overflow:hidden;box-shadow:0 0 0 1px var(--line-dark),0 60px 120px -60px rgba(195,0,79,.45)}
+.calc{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-top:72px;border-radius:32px;overflow:hidden;box-shadow:0 0 0 1px var(--line-dark),0 60px 120px -60px rgba(47,111,182,.45)}
 @media (max-width:900px){.calc{grid-template-columns:1fr}}
 .calc-in{background:var(--ink-3);padding:48px}
-.calc-out{position:relative;padding:48px;background:radial-gradient(120% 100% at 100% 0%,rgba(195,0,79,.55),transparent 60%),radial-gradient(100% 100% at 0% 100%,rgba(47,111,182,.45),transparent 60%),var(--ink-2);display:flex;flex-direction:column;justify-content:center}
+.calc-out{position:relative;padding:48px;background:radial-gradient(120% 100% at 100% 0%,rgba(47,111,182,.55),transparent 60%),radial-gradient(100% 100% at 0% 100%,rgba(47,111,182,.45),transparent 60%),var(--ink-2);display:flex;flex-direction:column;justify-content:center}
 @media (max-width:640px){.calc-in,.calc-out{padding:30px 22px}}
 .field{margin-bottom:34px}
 .field label{display:flex;justify-content:space-between;align-items:baseline;font-size:15px;color:var(--on-dark-muted);margin-bottom:16px}
 .field output{font-size:28px;font-weight:600;letter-spacing:-.03em;color:#fff;font-variant-numeric:tabular-nums}
-input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:6px;border-radius:3px;background:linear-gradient(90deg,#c3004f,#2f6fb6) 0/var(--fill,50%) 100% no-repeat,rgba(255,255,255,.12);outline:none}
-input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:26px;height:26px;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(195,0,79,.25),0 4px 12px rgba(0,0,0,.4);cursor:grab}
-input[type=range]::-moz-range-thumb{width:26px;height:26px;border:0;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(195,0,79,.25);cursor:grab}
+input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:6px;border-radius:3px;background:linear-gradient(90deg,#2f6fb6,#2f6fb6) 0/var(--fill,50%) 100% no-repeat,rgba(255,255,255,.12);outline:none}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:26px;height:26px;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(47,111,182,.25),0 4px 12px rgba(0,0,0,.4);cursor:grab}
+input[type=range]::-moz-range-thumb{width:26px;height:26px;border:0;border-radius:50%;background:#fff;box-shadow:0 0 0 6px rgba(47,111,182,.25);cursor:grab}
 input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 6px rgba(255,255,255,.5)}
 .calc-out small{color:var(--on-dark-muted);font-size:15px}
 .save{font-size:clamp(54px,7vw,96px);font-weight:600;letter-spacing:-.05em;line-height:1;margin:10px 0 18px;font-variant-numeric:tabular-nums}
@@ -321,7 +324,7 @@ input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 6px rgba(
 .ind::before{content:"";position:absolute;inset:0;background:var(--grad-top);opacity:0;transition:opacity .5s var(--ease)}
 .ind:hover{color:#fff}.ind:hover::before{opacity:1}
 .ind>*{position:relative}
-.ind svg{width:34px;height:34px;color:var(--plum);transition:color .5s}
+.ind svg{width:34px;height:34px;color:var(--blue-deep);transition:color .5s}
 .ind:hover svg{color:#fff}
 .ind h4{font-size:22px;letter-spacing:-.02em;font-weight:600}
 .ind p{font-size:14px;color:var(--muted);transition:color .5s}
@@ -331,7 +334,7 @@ input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 6px rgba(
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:40px;margin-top:80px;counter-reset:s}
 @media (max-width:860px){.steps{grid-template-columns:1fr}}
 .step{border-top:1px solid var(--line-dark);padding-top:28px}
-.step::before{counter-increment:s;content:"0" counter(s);font-family:var(--mono);font-size:13px;color:#f07ab1;display:block;margin-bottom:22px}
+.step::before{counter-increment:s;content:"0" counter(s);font-family:var(--mono);font-size:13px;color:var(--sky);display:block;margin-bottom:22px}
 .step h4{font-size:24px;letter-spacing:-.02em;font-weight:600;margin-bottom:10px}
 .step p{color:var(--on-dark-muted)}
 
@@ -422,12 +425,12 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
             <div class="dash-delta" id="txCount">▲ 18.4% vs. last Tuesday</div>
             <svg id="chart" viewBox="0 0 306 110" preserveAspectRatio="none">
               <defs>
-                <linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#c3004f"/><stop offset=".55" stop-color="#7d1a6e"/><stop offset="1" stop-color="#2f6fb6"/></linearGradient>
-                <linearGradient id="ga" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#c3004f" stop-opacity=".35"/><stop offset="1" stop-color="#c3004f" stop-opacity="0"/></linearGradient>
+                <linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#2f6fb6"/><stop offset=".55" stop-color="#2a85a8"/><stop offset="1" stop-color="#2bb673"/></linearGradient>
+                <linearGradient id="ga" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#2f6fb6" stop-opacity=".35"/><stop offset="1" stop-color="#2f6fb6" stop-opacity="0"/></linearGradient>
               </defs>
               <path id="area" fill="url(#ga)"/>
               <path id="line" fill="none" stroke="url(#gl)" stroke-width="2.5" stroke-linecap="round"/>
-              <circle id="dot" r="4.5" fill="#fff" stroke="#c3004f" stroke-width="2.5"/>
+              <circle id="dot" r="4.5" fill="#fff" stroke="#2f6fb6" stroke-width="2.5"/>
             </svg>
             <div class="dash-axis"><span>9 AM</span><span>12 PM</span><span>3 PM</span><span>NOW</span></div>
           </div>
@@ -483,7 +486,7 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
   <div class="wrap">
     <div class="reveal">
       <div class="kicker">One platform</div>
-      <h2>Everything you need to get paid. <span class="serif" style="color:var(--plum)">Nothing you don't.</span></h2>
+      <h2>Everything you need to get paid. <span class="serif" style="color:var(--blue-deep)">Nothing you don't.</span></h2>
       <p class="sec-sub">From the countertop to the checkout page, Patel Processing connects every payment to one account, one statement, and one team that knows your business.</p>
     </div>
 
@@ -528,10 +531,10 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
         <p>End-to-end encryption, tokenization and real-time fraud monitoring on every transaction.</p>
         <div class="viz">
           <svg class="shield" viewBox="0 0 300 120" fill="none">
-            <defs><linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#c3004f"/><stop offset="1" stop-color="#2f6fb6"/></linearGradient></defs>
-            <path d="M150 8l42 14v30c0 28-18 48-42 60-24-12-42-32-42-60V22z" stroke="url(#sg)" stroke-width="2.5" fill="rgba(125,26,110,.06)"/>
+            <defs><linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#2f6fb6"/><stop offset="1" stop-color="#1f8a4b"/></linearGradient></defs>
+            <path d="M150 8l42 14v30c0 28-18 48-42 60-24-12-42-32-42-60V22z" stroke="url(#sg)" stroke-width="2.5" fill="rgba(47,111,182,.06)"/>
             <path d="M134 60l11 11 22-24" stroke="url(#sg)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-            <rect class="scan" x="104" y="20" width="92" height="2" rx="1" fill="#c3004f" opacity=".5"/>
+            <rect class="scan" x="104" y="20" width="92" height="2" rx="1" fill="#2f6fb6" opacity=".5"/>
           </svg>
         </div>
       </article>
@@ -540,7 +543,7 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
         <h3>Real people. Real fast.</h3>
         <p>A dedicated account team you know by name — not a ticket number in a queue.</p>
         <div class="viz support">
-          <div class="av" style="background:#c3004f">AP</div><div class="av" style="background:#4f1b62">RS</div><div class="av" style="background:#2f6fb6">MK</div>
+          <div class="av" style="background:#2f6fb6">AP</div><div class="av" style="background:#1f8a4b">RS</div><div class="av" style="background:#1c7a86">MK</div>
           <div class="msg">Hi! I'm on it<span class="typing"><i></i><i></i><i></i></span></div>
         </div>
       </article>
@@ -590,7 +593,7 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
   <div class="wrap">
     <div class="reveal">
       <div class="kicker">Built for your business</div>
-      <h2>Tailored for the businesses <span class="serif" style="color:var(--plum)">that keep Main Street moving.</span></h2>
+      <h2>Tailored for the businesses <span class="serif" style="color:var(--blue-deep)">that keep Main Street moving.</span></h2>
     </div>
     <div class="inds">
       <a href="#contact" class="ind reveal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 9l1.5-5h15L21 9M3 9v11h18V9M3 9h18M9 20v-6h6v6"/></svg><div><h4>Retail &amp; Convenience</h4><p>Fast lanes, age verification, EBT and integrated POS.</p></div></a>
@@ -621,7 +624,7 @@ footer{padding:90px 0 40px;color:var(--on-dark-muted);font-size:15px}
   <div class="wrap">
     <div class="cta reveal">
       <div class="aurora" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-      <div class="kicker" style="color:#f07ab1">Free rate review</div>
+      <div class="kicker" style="color:var(--sky)">Free rate review</div>
       <h2>Keep more of every sale.</h2>
       <p>Talk to a payments specialist today and see exactly how much Patel Processing can save your business.</p>
       <div class="hero-ctas">
