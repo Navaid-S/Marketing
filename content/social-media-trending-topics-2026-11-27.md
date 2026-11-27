@@ -1,0 +1,18 @@
+---
+title: "RetailzPOS / Moolah Points — Daily Trending Topics Brief"
+subtitle: "November 27, 2026"
+---
+
+# Trending now — 3 topics with genuine brand angles
+
+| # | Trend | Source | Brand-twist content idea |
+|---|---|---|---|
+| 1 | **Small Business Saturday is tomorrow, Sat Nov 28, 2026** — confirmed date, SBA/American Express co-sponsored, promoting the country's 36.2M independent businesses. | [SBA](https://www.sba.gov/Saturday); [National Today](https://nationaltoday.com/small-business-saturday/) | **Instagram/Facebook post for every RetailzPOS vertical, timed today as a lead-in to tomorrow.** "Tomorrow is Small Business Saturday — the one day built specifically for stores like yours, not the big-box chains running sales today. If you've got regulars who shop around you out of habit, tomorrow's worth a reminder that shopping local is the whole point of the day." No deal/discount framing — a community-identity post, not a sales pitch. |
+| 2 | **Loyalty-program enrollment roughly doubled year-over-year during Black Friday 2025**, per Talon.One vendor data, which also found loyalty programs are now shoppers' "first filter" for meaningful offers. | [Talon.One — Black Friday Trends 2025](https://www.talon.one/blog/black-friday-trends-2025) | **LinkedIn/newsletter post for RetailzPOS merchants, timely-to-today framing.** "Loyalty enrollment nearly doubled on Black Friday last year — shoppers are using loyalty membership as their first filter for who's worth buying from. If you haven't pushed Moolah Points sign-ups today, this is the exact day that works best for it." Labeled honestly as 2025 vendor data, not an official 2026 figure. |
+| 3 | **A separate 2025 survey found nearly two-thirds of shoppers say they'd disengage from a loyalty program if rewards can't be easily redeemed at checkout** — a friction-specific finding distinct from enrollment-rate stats used in prior briefs. | Cited in Black Friday loyalty trend coverage (vendor-sourced, 2025) | **LinkedIn/newsletter post, product-practical angle.** "Nearly two-thirds of shoppers say a clunky redemption process at checkout is enough to make them stop bothering with a loyalty program at all. On a day with long lines, that's the moment Moolah Points needs to actually be fast, not just installed." Ties to POS redemption speed specifically — a different product angle than any loyalty post used this week. |
+
+---
+
+**Skipped / unconfirmed despite searching:** 2026 Black Friday foot-traffic/liquor-sales figures for today specifically — not yet published, since the day is still underway; only 2025 baselines exist, and those are themselves conflicting across sources. Bain's $85B BFCM 2026 spending forecast — real but macro-level, and too close to the "big-box is loud, loyalty keeps your regulars" lane already used earlier this week; skipped for redundancy. NielsenIQ's "33% visiting stores less" stat — already used Nov 22, not repeated. Target's Black Friday start-date timing — not referenced, per the standing Nov 22 correction. Toast's "72% alcohol sales jump" stat and "Blackout Wednesday" framing — not reused, per standing Nov 24/25 flags. General "trending today" scan — no live Nov 27-dated snapshot found. National gas price and NRF Halloween spending — not checked, per standing instruction (dropped Nov 17).
+
+**Compliance check:** none of the 3 kept ideas implies RetailzPOS's own pricing/discounts; idea #1 is a pure community-identity post with zero deal framing; ideas #2–3 are loyalty-industry stats (both honestly labeled as 2025 vendor/survey data, not confirmed 2026 figures) nudging feature adoption and redemption speed, with no alcohol/tobacco/CBD content at all. Voice stays plain, owner-to-owner, and specific throughout.
